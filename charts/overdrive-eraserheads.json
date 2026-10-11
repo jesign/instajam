@@ -1,0 +1,100 @@
+{
+ "id": "overdrive-eraserheads",
+ "title": "Overdrive",
+ "artist": "Eraserheads",
+ "categories": [
+  "OPM Classics"
+ ],
+ "key": "A",
+ "bpm": 120,
+ "sections": [
+  {
+   "name": "Intro / Verse",
+   "rows": [
+    [
+     "A",
+     "E",
+     "F#m E"
+    ],
+    [
+     "A",
+     "E",
+     "F#m"
+    ],
+    [
+     "Bm",
+     "F#",
+     "Bm F#"
+    ],
+    [
+     "Bm",
+     "F#",
+     "Bm E"
+    ]
+   ]
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "A",
+     "E",
+     "F#m E"
+    ],
+    [
+     "A",
+     "E",
+     "F#m E"
+    ],
+    [
+     "Bm",
+     "F#",
+     "Bm F#"
+    ],
+    [
+     "A",
+     "F#",
+     "Bm E"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "A",
+     "C#m",
+     "F#m"
+    ],
+    [
+     "E",
+     "A"
+    ],
+    [
+     "C#m",
+     "F#m"
+    ],
+    [
+     "E"
+    ],
+    [
+     "A C#m",
+     "F#m E"
+    ],
+    [
+     "A C#m",
+     "F#m E"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "A"
+    ]
+   ],
+   "repeat": 3
+  }
+ ]
+}

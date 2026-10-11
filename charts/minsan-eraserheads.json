@@ -1,0 +1,127 @@
+{
+ "id": "minsan-eraserheads",
+ "title": "Minsan",
+ "artist": "Eraserheads",
+ "categories": [
+  "OPM Classics"
+ ],
+ "key": "D",
+ "bpm": 80,
+ "sections": [
+  {
+   "name": "Intro / Verse",
+   "rows": [
+    [
+     "D",
+     "Dmaj7"
+    ],
+    [
+     "Em",
+     "Gm",
+     "D"
+    ],
+    [
+     "D",
+     "Dmaj7"
+    ],
+    [
+     "Em",
+     "Gm",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Dmaj7",
+     "D7",
+     "G"
+    ],
+    [
+     "Gm",
+     "D",
+     "Gm",
+     "A"
+    ],
+    [
+     "F#m",
+     "G",
+     "F#m",
+     "G"
+    ],
+    [
+     "D",
+     "A",
+     "Gm",
+     "Gm"
+    ]
+   ]
+  },
+  {
+   "name": "Ad lib",
+   "rows": [
+    [
+     "D",
+     "Dmaj7",
+     "D7",
+     "G"
+    ],
+    [
+     "Gm",
+     "D",
+     "Gm",
+     "A"
+    ],
+    [
+     "F#m",
+     "G",
+     "F#m",
+     "G"
+    ],
+    [
+     "D",
+     "A",
+     "Gm"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge (up a step)",
+   "rows": [
+    [
+     "E",
+     "Emaj7"
+    ],
+    [
+     "F#m",
+     "Am",
+     "E"
+    ],
+    [
+     "Emaj7",
+     "E7",
+     "A"
+    ],
+    [
+     "Am",
+     "E",
+     "Am",
+     "B"
+    ],
+    [
+     "G#m",
+     "A",
+     "G#m",
+     "A"
+    ],
+    [
+     "E",
+     "B",
+     "Am"
+    ]
+   ]
+  }
+ ]
+}

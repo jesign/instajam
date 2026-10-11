@@ -1,0 +1,119 @@
+{
+ "id": "hinahanap-hanap-kita-rivermaya",
+ "title": "Hinahanap-hanap Kita",
+ "artist": "Rivermaya",
+ "categories": [
+  "OPM Classics"
+ ],
+ "key": "G",
+ "bpm": 72,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "Bb",
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "G",
+     "Em",
+     "Am D",
+     "G"
+    ],
+    [
+     "Bb A"
+    ],
+    [
+     "G",
+     "Em",
+     "Am",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "Em",
+     "Am",
+     "D"
+    ],
+    [
+     "G",
+     "Bb A"
+    ],
+    [
+     "G",
+     "Em",
+     "Am",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "G",
+     "Em",
+     "Am D",
+     "G"
+    ],
+    [
+     "Bb A"
+    ],
+    [
+     "G",
+     "Em",
+     "Am",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "Em",
+     "Am",
+     "D"
+    ],
+    [
+     "G",
+     "Bb A"
+    ],
+    [
+     "G",
+     "Em",
+     "Am",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "G",
+     "Em",
+     "Am",
+     "D"
+    ],
+    [
+     "G"
+    ]
+   ]
+  }
+ ]
+}

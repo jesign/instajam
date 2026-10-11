@@ -1,0 +1,92 @@
+{
+ "id": "sweet-home-alabama-lynyrd-skynyrd",
+ "title": "Sweet Home Alabama",
+ "artist": "Lynyrd Skynyrd",
+ "categories": [
+  "Rock"
+ ],
+ "key": "D",
+ "bpm": 98,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "D",
+     "C",
+     "G",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "D",
+     "C",
+     "G",
+     "G"
+    ],
+    [
+     "D",
+     "C",
+     "G",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "C",
+     "G",
+     "G"
+    ],
+    [
+     "D",
+     "C",
+     "G",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "D",
+     "C",
+     "G",
+     "G"
+    ],
+    [
+     "D",
+     "C",
+     "G",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "C",
+     "G",
+     "G"
+    ],
+    [
+     "D",
+     "C",
+     "G",
+     "G"
+    ]
+   ]
+  }
+ ]
+}

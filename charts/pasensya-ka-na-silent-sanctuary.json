@@ -1,0 +1,129 @@
+{
+ "id": "pasensya-ka-na-silent-sanctuary",
+ "title": "Pasensya Ka Na",
+ "artist": "Silent Sanctuary",
+ "categories": [
+  "OPM"
+ ],
+ "key": "A",
+ "bpm": 76,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "A",
+     "D",
+     "A",
+     "E"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "A",
+     "D",
+     "C#m7",
+     "D"
+    ],
+    [
+     "A",
+     "D",
+     "C#m7",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Refrain",
+   "rows": [
+    [
+     "C#m7",
+     "D",
+     "C#m7",
+     "D"
+    ],
+    [
+     "E",
+     "E",
+     "D",
+     "E"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "A",
+     "C#m7",
+     "D",
+     "E"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "A",
+     "D",
+     "C#m7",
+     "D"
+    ],
+    [
+     "A",
+     "D",
+     "C#m7",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Refrain",
+   "rows": [
+    [
+     "C#m7",
+     "D",
+     "C#m7",
+     "D"
+    ],
+    [
+     "E",
+     "E",
+     "D",
+     "E"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "A",
+     "C#m7",
+     "D",
+     "E"
+    ]
+   ],
+   "repeat": 3
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "A",
+     "C#m7",
+     "D",
+     "E"
+    ],
+    [
+     "A"
+    ]
+   ]
+  }
+ ]
+}

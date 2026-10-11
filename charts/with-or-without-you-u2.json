@@ -1,0 +1,60 @@
+{
+ "id": "with-or-without-you-u2",
+ "title": "With or Without You",
+ "artist": "U2",
+ "categories": [
+  "Rock"
+ ],
+ "key": "D",
+ "bpm": 110,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "D",
+     "A",
+     "Bm",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "D",
+     "A",
+     "Bm",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "A",
+     "Bm",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "D",
+     "A",
+     "Bm",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  }
+ ]
+}

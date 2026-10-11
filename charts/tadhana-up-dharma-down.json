@@ -1,0 +1,120 @@
+{
+ "id": "tadhana-up-dharma-down",
+ "title": "Tadhana",
+ "artist": "Up Dharma Down",
+ "categories": [
+  "OPM"
+ ],
+ "key": "G",
+ "capo": 4,
+ "bpm": 74,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "A Bm",
+     "G",
+     "A Bm"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "G",
+     "A Bm",
+     "G",
+     "A Bm"
+    ],
+    [
+     "G",
+     "A Bm",
+     "Em F#",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "Bm",
+     "G",
+     "Bm"
+    ],
+    [
+     "G",
+     "Bm",
+     "Em F#",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Interlude",
+   "rows": [
+    [
+     "G",
+     "Bm",
+     "G",
+     "A Bm"
+    ],
+    [
+     "Em"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "A Bm",
+     "G",
+     "A Bm"
+    ],
+    [
+     "G",
+     "A Bm",
+     "Em F#",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "Bm",
+     "G",
+     "Bm"
+    ],
+    [
+     "G",
+     "Bm",
+     "Em F#",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "G",
+     "Bm",
+     "G",
+     "A Bm"
+    ],
+    [
+     "G"
+    ]
+   ]
+  }
+ ]
+}

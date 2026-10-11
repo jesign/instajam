@@ -1,0 +1,92 @@
+{
+ "id": "zombie-the-cranberries",
+ "title": "Zombie",
+ "artist": "The Cranberries",
+ "categories": [
+  "Rock"
+ ],
+ "key": "Em",
+ "bpm": 84,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ],
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ],
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ],
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ],
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ]
+   ]
+  }
+ ]
+}

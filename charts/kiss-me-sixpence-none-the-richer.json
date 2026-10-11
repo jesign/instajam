@@ -1,0 +1,116 @@
+{
+ "id": "kiss-me-sixpence-none-the-richer",
+ "title": "Kiss Me",
+ "artist": "Sixpence None the Richer",
+ "categories": [
+  "Love Songs"
+ ],
+ "key": "C",
+ "capo": 3,
+ "bpm": 104,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "C",
+     "Cmaj7",
+     "C7",
+     "Cmaj7"
+    ]
+   ]
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "C",
+     "Cmaj7",
+     "C7",
+     "Cmaj7"
+    ],
+    [
+     "C",
+     "Cmaj7",
+     "C7",
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Dm",
+     "G",
+     "C",
+     "Am"
+    ],
+    [
+     "Dm",
+     "G",
+     "C",
+     "C7"
+    ],
+    [
+     "Dm",
+     "G",
+     "C",
+     "C/B"
+    ],
+    [
+     "Am",
+     "G",
+     "F",
+     "Gsus4 G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "C",
+     "Cmaj7",
+     "C7",
+     "Cmaj7"
+    ],
+    [
+     "C",
+     "Cmaj7",
+     "C7",
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Dm",
+     "G",
+     "C",
+     "Am"
+    ],
+    [
+     "Dm",
+     "G",
+     "C",
+     "C7"
+    ],
+    [
+     "Dm",
+     "G",
+     "C",
+     "C/B"
+    ],
+    [
+     "Am",
+     "G",
+     "F",
+     "Gsus4 G"
+    ]
+   ]
+  }
+ ]
+}

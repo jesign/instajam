@@ -1,0 +1,118 @@
+{
+ "id": "pasilyo-sunkissed-lola",
+ "title": "Pasilyo",
+ "artist": "SunKissed Lola",
+ "categories": [
+  "OPM"
+ ],
+ "key": "D",
+ "bpm": 112,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "Dmaj7",
+     "Bm7",
+     "Em7",
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "Dmaj7",
+     "Bm7",
+     "Em7",
+     "A"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Dmaj7",
+     "Bm7",
+     "Em7",
+     "A"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Dmaj7",
+     "Bm7",
+     "Em7",
+     "A"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "Dmaj7",
+     "Bm7",
+     "Em7",
+     "A"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Dmaj7",
+     "Bm7",
+     "Em7",
+     "A"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Dmaj7",
+     "Bm7",
+     "Em7",
+     "A"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Interlude",
+   "rows": [
+    [
+     "Dmaj7",
+     "Bm7",
+     "Em7",
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "Final Chorus (up a half step)",
+   "rows": [
+    [
+     "D#maj7",
+     "Cm7",
+     "Fm7",
+     "A#"
+    ]
+   ],
+   "repeat": 4
+  }
+ ]
+}

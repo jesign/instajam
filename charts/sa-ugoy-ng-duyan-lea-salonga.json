@@ -1,0 +1,79 @@
+{
+ "id": "sa-ugoy-ng-duyan-lea-salonga",
+ "title": "Sa Ugoy ng Duyan",
+ "artist": "Lea Salonga",
+ "categories": [
+  "OPM Classics"
+ ],
+ "key": "C",
+ "bpm": 72,
+ "sections": [
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "C",
+     "G/C",
+     "C"
+    ],
+    [
+     "F",
+     "G",
+     "C"
+    ],
+    [
+     "C",
+     "G/C",
+     "C"
+    ],
+    [
+     "Bbm",
+     "C",
+     "F",
+     "G",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "Bbm",
+     "C"
+    ],
+    [
+     "C",
+     "Bbm",
+     "C#"
+    ],
+    [
+     "C",
+     "Bbm",
+     "C#"
+    ],
+    [
+     "C",
+     "F",
+     "G",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "C",
+     "G/C",
+     "C"
+    ],
+    [
+     "Bbm",
+     "C"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "id": "creep-radiohead",
+ "title": "Creep",
+ "artist": "Radiohead",
+ "categories": [
+  "Rock"
+ ],
+ "key": "G",
+ "bpm": 92,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "B",
+     "C",
+     "Cm"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "G",
+     "B",
+     "C",
+     "Cm"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "B",
+     "C",
+     "Cm"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "B",
+     "C",
+     "Cm"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "B",
+     "C",
+     "Cm"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "G",
+     "B",
+     "C",
+     "Cm"
+    ]
+   ]
+  }
+ ]
+}

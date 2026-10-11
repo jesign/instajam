@@ -1,0 +1,34 @@
+{
+ "id": "amazing-grace-traditional",
+ "title": "Amazing Grace",
+ "artist": "Traditional",
+ "categories": [
+  "Worship"
+ ],
+ "key": "G",
+ "bpm": 72,
+ "sections": [
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "G",
+     "C G"
+    ],
+    [
+     "G",
+     "Em D"
+    ],
+    [
+     "G",
+     "C G"
+    ],
+    [
+     "G",
+     "D G"
+    ]
+   ],
+   "repeat": 3
+  }
+ ]
+}

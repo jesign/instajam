@@ -1,0 +1,170 @@
+{
+ "id": "puso-koy-nananabik-bishop-art-gonzales",
+ "title": "Puso Ko'y Nananabik",
+ "artist": "Bishop Art Gonzales",
+ "categories": [
+  "Worship"
+ ],
+ "key": "G",
+ "bpm": 72,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "C",
+     "G",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "G",
+     "C",
+     "G",
+     "C"
+    ],
+    [
+     "C",
+     "B/G",
+     "Am",
+     "C D"
+    ],
+    [
+     "C D",
+     "Em",
+     "G",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C D",
+     "Em G",
+     "C D",
+     "Em D"
+    ],
+    [
+     "C D",
+     "Em G",
+     "C D Am",
+     "D G C"
+    ],
+    [
+     "G",
+     "C",
+     "G",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "C",
+     "G",
+     "C"
+    ],
+    [
+     "C",
+     "B/G",
+     "Am",
+     "C D"
+    ],
+    [
+     "C D",
+     "Em",
+     "G",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C D",
+     "Em G",
+     "C D",
+     "Em D"
+    ],
+    [
+     "C D",
+     "Em G",
+     "C D Am",
+     "D G C"
+    ],
+    [
+     "G",
+     "C",
+     "G",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "C",
+     "D",
+     "Em",
+     "G"
+    ],
+    [
+     "C",
+     "D",
+     "Em",
+     "G"
+    ],
+    [
+     "C",
+     "D",
+     "Em",
+     "G"
+    ],
+    [
+     "Am",
+     "C",
+     "D",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C D",
+     "Em G",
+     "C D",
+     "Em D"
+    ],
+    [
+     "C D",
+     "Em G",
+     "C D Am",
+     "D G C"
+    ],
+    [
+     "G",
+     "C",
+     "G",
+     "C"
+    ]
+   ]
+  }
+ ]
+}

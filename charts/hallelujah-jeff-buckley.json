@@ -1,0 +1,80 @@
+{
+ "id": "hallelujah-jeff-buckley",
+ "title": "Hallelujah",
+ "artist": "Jeff Buckley",
+ "categories": [
+  "Love Songs"
+ ],
+ "key": "C",
+ "bpm": 56,
+ "sections": [
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "C",
+     "Am",
+     "C",
+     "Am"
+    ],
+    [
+     "F",
+     "G",
+     "C",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "F",
+     "Am",
+     "F",
+     "C"
+    ],
+    [
+     "G",
+     "C",
+     "G",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "C",
+     "Am",
+     "C",
+     "Am"
+    ],
+    [
+     "F",
+     "G",
+     "C",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "F",
+     "Am",
+     "F",
+     "C"
+    ],
+    [
+     "G",
+     "C",
+     "G",
+     "C"
+    ]
+   ]
+  }
+ ]
+}

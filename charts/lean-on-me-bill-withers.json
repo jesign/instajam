@@ -1,0 +1,80 @@
+{
+ "id": "lean-on-me-bill-withers",
+ "title": "Lean on Me",
+ "artist": "Bill Withers",
+ "categories": [
+  "Pop"
+ ],
+ "key": "C",
+ "bpm": 78,
+ "sections": [
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "C",
+     "F",
+     "C",
+     "G"
+    ],
+    [
+     "C",
+     "F",
+     "C",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "F",
+     "C",
+     "C"
+    ],
+    [
+     "F",
+     "C",
+     "G",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "C",
+     "F",
+     "C",
+     "G"
+    ],
+    [
+     "C",
+     "F",
+     "C",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "F",
+     "C",
+     "C"
+    ],
+    [
+     "F",
+     "C",
+     "G",
+     "C"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "id": "handog-florante",
+ "title": "Handog",
+ "artist": "Florante",
+ "categories": [
+  "OPM Classics"
+ ],
+ "key": "C",
+ "bpm": 76,
+ "sections": [
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "C",
+     "G C",
+     "C",
+     "G C"
+    ],
+    [
+     "Dm",
+     "G C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "C",
+     "G C",
+     "C",
+     "G C"
+    ],
+    [
+     "Dm",
+     "G C",
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "F Fm",
+     "Em7",
+     "Am7"
+    ],
+    [
+     "F Fm",
+     "Em7 Am7"
+    ],
+    [
+     "F Fm",
+     "G C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 3",
+   "rows": [
+    [
+     "C",
+     "G C",
+     "C",
+     "G C"
+    ],
+    [
+     "Dm",
+     "G C"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "F Fm",
+     "Em7",
+     "Am7"
+    ],
+    [
+     "F Fm",
+     "Em7 Am7"
+    ],
+    [
+     "F Fm",
+     "G C"
+    ]
+   ]
+  }
+ ]
+}

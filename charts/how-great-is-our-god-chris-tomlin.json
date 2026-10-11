@@ -1,0 +1,105 @@
+{
+ "id": "how-great-is-our-god-chris-tomlin",
+ "title": "How Great Is Our God",
+ "artist": "Chris Tomlin",
+ "categories": [
+  "Worship"
+ ],
+ "key": "C",
+ "bpm": 78,
+ "sections": [
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "C",
+     "Am7",
+     "F",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G/B",
+     "Am7",
+     "G/B"
+    ],
+    [
+     "F",
+     "G",
+     "C",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "C",
+     "Am7",
+     "F",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G/B",
+     "Am7",
+     "G/B"
+    ],
+    [
+     "F",
+     "G",
+     "C",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "C",
+     "G/B",
+     "Am7",
+     "G/B"
+    ],
+    [
+     "F",
+     "G",
+     "C",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G/B",
+     "Am7",
+     "G/B"
+    ],
+    [
+     "F",
+     "G",
+     "C",
+     "C"
+    ]
+   ]
+  }
+ ]
+}

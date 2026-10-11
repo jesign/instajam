@@ -1,0 +1,76 @@
+{
+ "id": "stand-by-me-ben-e-king",
+ "title": "Stand By Me",
+ "artist": "Ben E. King",
+ "categories": [
+  "Pop",
+  "Love Songs"
+ ],
+ "key": "G",
+ "bpm": 118,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "Em",
+     "C",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "G",
+     "Em",
+     "C",
+     "D"
+    ],
+    [
+     "G",
+     "Em",
+     "C",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "Em",
+     "C",
+     "D"
+    ],
+    [
+     "G",
+     "Em",
+     "C",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "C",
+     "D",
+     "G",
+     "Em"
+    ],
+    [
+     "C",
+     "D",
+     "G",
+     "G"
+    ]
+   ]
+  }
+ ]
+}

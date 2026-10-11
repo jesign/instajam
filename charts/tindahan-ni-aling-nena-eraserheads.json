@@ -1,0 +1,115 @@
+{
+ "id": "tindahan-ni-aling-nena-eraserheads",
+ "title": "Tindahan ni Aling Nena",
+ "artist": "Eraserheads",
+ "categories": [
+  "OPM Classics"
+ ],
+ "key": "C",
+ "bpm": 110,
+ "sections": [
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "C",
+     "G/B",
+     "Am",
+     "G F D/F# G"
+    ],
+    [
+     "C",
+     "G/B",
+     "Am",
+     "G F D/F# G"
+    ],
+    [
+     "Am",
+     "E/G#",
+     "Am",
+     "E/G# F D/F# G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "C",
+     "G/B",
+     "Am",
+     "G F D/F# G"
+    ],
+    [
+     "C",
+     "G/B",
+     "Am",
+     "G F D/F# G"
+    ],
+    [
+     "Am",
+     "E/G#",
+     "Am",
+     "E/G# F D/F# G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G/B",
+     "Am",
+     "G F D/F# G"
+    ],
+    [
+     "C",
+     "G/B",
+     "Am",
+     "G F D/F# G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 3",
+   "rows": [
+    [
+     "C",
+     "G/B",
+     "Am",
+     "G F D/F# G"
+    ],
+    [
+     "C",
+     "G/B",
+     "Am",
+     "G F D/F# G"
+    ],
+    [
+     "Am",
+     "E/G#",
+     "Am",
+     "E/G# F D/F# G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G/B",
+     "Am",
+     "G F D/F# G"
+    ],
+    [
+     "C",
+     "G/B",
+     "Am",
+     "G F D/F# G"
+    ]
+   ]
+  }
+ ]
+}

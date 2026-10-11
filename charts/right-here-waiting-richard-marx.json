@@ -1,0 +1,104 @@
+{
+ "id": "right-here-waiting-richard-marx",
+ "title": "Right Here Waiting",
+ "artist": "Richard Marx",
+ "categories": [
+  "Love Songs"
+ ],
+ "key": "G",
+ "bpm": 72,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "D/F#",
+     "Em",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "G",
+     "D/F#",
+     "Em",
+     "C D"
+    ],
+    [
+     "G",
+     "G",
+     "D/F#",
+     "Em"
+    ],
+    [
+     "C D",
+     "Em/G",
+     "Am",
+     "Em"
+    ],
+    [
+     "Am",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "D/F#",
+     "Em",
+     "C D"
+    ],
+    [
+     "G",
+     "G",
+     "D/F#",
+     "Em"
+    ],
+    [
+     "C",
+     "D",
+     "Am7",
+     "Am7"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "Am7",
+     "Bm7",
+     "C/G",
+     "D"
+    ],
+    [
+     "Am7",
+     "Bm7",
+     "C/G",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "G",
+     "D/F#",
+     "Em",
+     "C D"
+    ],
+    [
+     "G"
+    ]
+   ]
+  }
+ ]
+}

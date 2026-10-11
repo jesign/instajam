@@ -1,0 +1,80 @@
+{
+ "id": "unchained-melody-righteous-brothers",
+ "title": "Unchained Melody",
+ "artist": "The Righteous Brothers",
+ "categories": [
+  "Love Songs"
+ ],
+ "key": "C",
+ "bpm": 68,
+ "sections": [
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "C",
+     "Am",
+     "F",
+     "G"
+    ],
+    [
+     "C",
+     "Am",
+     "G",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am",
+     "Em"
+    ],
+    [
+     "F",
+     "G",
+     "C",
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "C",
+     "Am",
+     "F",
+     "G"
+    ],
+    [
+     "C",
+     "Am",
+     "G",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am",
+     "Em"
+    ],
+    [
+     "F",
+     "G",
+     "C",
+     "C7"
+    ]
+   ]
+  }
+ ]
+}

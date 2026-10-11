@@ -1,0 +1,93 @@
+{
+ "id": "riptide-vance-joy",
+ "title": "Riptide",
+ "artist": "Vance Joy",
+ "categories": [
+  "Pop"
+ ],
+ "key": "Am",
+ "capo": 1,
+ "bpm": 102,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "Am",
+     "G",
+     "C",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "Am",
+     "G",
+     "C",
+     "C"
+    ],
+    [
+     "Am",
+     "G",
+     "C",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Am",
+     "G",
+     "C",
+     "C"
+    ],
+    [
+     "Am",
+     "G",
+     "C",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "Am",
+     "G",
+     "C",
+     "C"
+    ],
+    [
+     "Am",
+     "G",
+     "C",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Am",
+     "G",
+     "C",
+     "C"
+    ],
+    [
+     "Am",
+     "G",
+     "C",
+     "C"
+    ]
+   ]
+  }
+ ]
+}

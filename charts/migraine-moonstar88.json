@@ -1,0 +1,137 @@
+{
+ "id": "migraine-moonstar88",
+ "title": "Migraine",
+ "artist": "Moonstar88",
+ "categories": [
+  "OPM"
+ ],
+ "key": "D",
+ "bpm": 80,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "D",
+     "Bm",
+     "F#m",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "D",
+     "Bm",
+     "F#m",
+     "G"
+    ],
+    [
+     "D",
+     "Bm",
+     "F#m",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "Bm",
+     "F#m",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "D",
+     "Bm",
+     "F#m",
+     "G"
+    ],
+    [
+     "D",
+     "Bm",
+     "F#m",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "Bm",
+     "F#m",
+     "G"
+    ],
+    [
+     "D",
+     "Bm",
+     "F#m",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "D",
+     "Bm",
+     "F#m",
+     "G"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Verse 3",
+   "rows": [
+    [
+     "D",
+     "Bm",
+     "F#m",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "Bm",
+     "F#m",
+     "G"
+    ],
+    [
+     "D",
+     "Bm",
+     "F#m",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "D",
+     "Bm",
+     "F#m",
+     "G"
+    ]
+   ],
+   "repeat": 3
+  }
+ ]
+}

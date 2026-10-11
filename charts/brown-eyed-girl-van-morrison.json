@@ -1,0 +1,91 @@
+{
+ "id": "brown-eyed-girl-van-morrison",
+ "title": "Brown Eyed Girl",
+ "artist": "Van Morrison",
+ "categories": [
+  "Pop"
+ ],
+ "key": "G",
+ "bpm": 150,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "C",
+     "G",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "G",
+     "C",
+     "G",
+     "D"
+    ],
+    [
+     "G",
+     "C",
+     "G",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "D",
+     "G",
+     "Em"
+    ],
+    [
+     "C",
+     "D",
+     "G",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "C",
+     "G",
+     "D"
+    ],
+    [
+     "G",
+     "C",
+     "G",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "D",
+     "G",
+     "Em"
+    ],
+    [
+     "C",
+     "D",
+     "G",
+     "D"
+    ]
+   ]
+  }
+ ]
+}

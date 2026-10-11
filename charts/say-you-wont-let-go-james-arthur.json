@@ -1,0 +1,92 @@
+{
+ "id": "say-you-wont-let-go-james-arthur",
+ "title": "Say You Won't Let Go",
+ "artist": "James Arthur",
+ "categories": [
+  "Love Songs"
+ ],
+ "key": "G",
+ "capo": 3,
+ "bpm": 85,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ],
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ],
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ],
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ],
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ]
+   ]
+  }
+ ]
+}

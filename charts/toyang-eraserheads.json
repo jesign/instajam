@@ -1,0 +1,135 @@
+{
+ "id": "toyang-eraserheads",
+ "title": "Toyang",
+ "artist": "Eraserheads",
+ "categories": [
+  "OPM Classics"
+ ],
+ "key": "A",
+ "bpm": 120,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "A",
+     "C#m",
+     "D",
+     "E"
+    ],
+    [
+     "A",
+     "C#m",
+     "D",
+     "E"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "A",
+     "C#m",
+     "D",
+     "E"
+    ],
+    [
+     "A",
+     "C#m",
+     "D",
+     "E"
+    ],
+    [
+     "A",
+     "C#m",
+     "D",
+     "E"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "E",
+     "D",
+     "E"
+    ],
+    [
+     "D",
+     "E",
+     "D",
+     "E"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "A",
+     "C#m",
+     "D",
+     "E"
+    ],
+    [
+     "A",
+     "C#m",
+     "D",
+     "E"
+    ]
+   ]
+  },
+  {
+   "name": "Solo",
+   "rows": [
+    [
+     "A",
+     "C#m",
+     "D",
+     "E"
+    ],
+    [
+     "A",
+     "C#m",
+     "D",
+     "E"
+    ],
+    [
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "E",
+     "D",
+     "E"
+    ],
+    [
+     "D",
+     "E",
+     "D",
+     "E"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "A",
+     "C#m",
+     "D",
+     "E"
+    ]
+   ],
+   "repeat": 3
+  }
+ ]
+}

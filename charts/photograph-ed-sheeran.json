@@ -1,0 +1,142 @@
+{
+ "id": "photograph-ed-sheeran",
+ "title": "Photograph",
+ "artist": "Ed Sheeran",
+ "categories": [
+  "Love Songs"
+ ],
+ "key": "D",
+ "capo": 2,
+ "bpm": 108,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "D",
+     "Bm",
+     "A",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "D",
+     "Bm",
+     "A",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Bm",
+     "G",
+     "D",
+     "A"
+    ],
+    [
+     "Bm",
+     "G",
+     "D",
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "A",
+     "Bm",
+     "G"
+    ],
+    [
+     "D",
+     "A",
+     "Bm",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "D",
+     "Bm",
+     "A",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Bm",
+     "G",
+     "D",
+     "A"
+    ],
+    [
+     "Bm",
+     "G",
+     "D",
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "A",
+     "Bm",
+     "G"
+    ],
+    [
+     "D",
+     "A",
+     "Bm",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "D",
+     "A",
+     "Bm",
+     "G"
+    ],
+    [
+     "Bm",
+     "G",
+     "D",
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "D",
+     "A",
+     "Bm",
+     "G"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "id": "torete-moonstar88",
+ "title": "Torete",
+ "artist": "Moonstar88",
+ "categories": [
+  "OPM"
+ ],
+ "key": "C",
+ "capo": 2,
+ "bpm": 68,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "C",
+     "Em",
+     "Am",
+     "Fmaj7"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "C",
+     "Em",
+     "Am",
+     "Fmaj7"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Refrain",
+   "rows": [
+    [
+     "C",
+     "Em",
+     "Am",
+     "Fmaj7"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "C",
+     "Em",
+     "Am",
+     "Fmaj7"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "Em",
+     "Am",
+     "Fmaj7"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Refrain",
+   "rows": [
+    [
+     "C",
+     "Em",
+     "Am",
+     "Fmaj7"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "Em",
+     "Am",
+     "Fmaj7"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Ad lib",
+   "rows": [
+    [
+     "C",
+     "Em",
+     "Am",
+     "Fmaj7"
+    ]
+   ],
+   "repeat": 2
+  }
+ ]
+}

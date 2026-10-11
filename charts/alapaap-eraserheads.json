@@ -1,0 +1,108 @@
+{
+ "id": "alapaap-eraserheads",
+ "title": "Alapaap",
+ "artist": "Eraserheads",
+ "categories": [
+  "OPM"
+ ],
+ "key": "G",
+ "bpm": 130,
+ "sections": [
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "G",
+     "Am",
+     "Bm",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "Am",
+     "Bm",
+     "C"
+    ],
+    [
+     "G",
+     "Am",
+     "Bm",
+     "C"
+    ],
+    [
+     "G",
+     "Am",
+     "Bm",
+     "C"
+    ],
+    [
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Ad lib",
+   "rows": [
+    [
+     "F",
+     "G",
+     "Am",
+     "F"
+    ],
+    [
+     "G",
+     "A",
+     "C#m",
+     "D"
+    ],
+    [
+     "E"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "Am",
+     "Bm",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "Am",
+     "Bm",
+     "C"
+    ],
+    [
+     "G",
+     "Am",
+     "Bm",
+     "C"
+    ],
+    [
+     "G",
+     "Am",
+     "Bm",
+     "C"
+    ],
+    [
+     "D"
+    ]
+   ]
+  }
+ ]
+}

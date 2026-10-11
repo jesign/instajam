@@ -1,0 +1,85 @@
+{
+ "id": "reckless-love-cory-asbury",
+ "title": "Reckless Love",
+ "artist": "Cory Asbury",
+ "categories": [
+  "Worship"
+ ],
+ "key": "G",
+ "capo": 1,
+ "bpm": 80,
+ "sections": [
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "Em",
+     "D",
+     "C",
+     "C"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Em",
+     "D",
+     "C",
+     "G"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "Em",
+     "D",
+     "C",
+     "C"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Em",
+     "D",
+     "C",
+     "G"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "Em",
+     "D",
+     "C",
+     "G"
+    ]
+   ],
+   "repeat": 5
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Em",
+     "D",
+     "C",
+     "G"
+    ]
+   ],
+   "repeat": 4
+  }
+ ]
+}

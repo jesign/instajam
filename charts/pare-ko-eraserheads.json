@@ -1,0 +1,174 @@
+{
+ "id": "pare-ko-eraserheads",
+ "title": "Pare Ko",
+ "artist": "Eraserheads",
+ "categories": [
+  "OPM"
+ ],
+ "key": "G",
+ "bpm": 125,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "Cadd9"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "G",
+     "Cadd9",
+     "G",
+     "Cadd9"
+    ],
+    [
+     "G",
+     "Cadd9",
+     "G",
+     "Cadd9"
+    ],
+    [
+     "Am",
+     "C",
+     "Am",
+     "C"
+    ],
+    [
+     "Am",
+     "C",
+     "D",
+     "Dsus4"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "D Em",
+     "C"
+    ],
+    [
+     "G",
+     "D Em",
+     "C"
+    ],
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ],
+    [
+     "G D",
+     "Em C"
+    ]
+   ]
+  },
+  {
+   "name": "Ad lib",
+   "rows": [
+    [
+     "G D",
+     "Em C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "G",
+     "Cadd9",
+     "G",
+     "Cadd9"
+    ],
+    [
+     "G",
+     "Cadd9",
+     "G",
+     "Cadd9"
+    ],
+    [
+     "Am",
+     "C",
+     "Am",
+     "C"
+    ],
+    [
+     "Am",
+     "C",
+     "D",
+     "Dsus4"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "Am C",
+     "G",
+     "D"
+    ],
+    [
+     "Am C",
+     "G",
+     "D"
+    ],
+    [
+     "Am",
+     "C",
+     "G",
+     "Em"
+    ],
+    [
+     "Am",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "D Em",
+     "C"
+    ],
+    [
+     "G",
+     "D Em",
+     "C"
+    ],
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ],
+    [
+     "G D",
+     "Em C"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "G D",
+     "Em C"
+    ]
+   ]
+  }
+ ]
+}

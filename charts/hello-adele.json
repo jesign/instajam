@@ -1,0 +1,92 @@
+{
+ "id": "hello-adele",
+ "title": "Hello",
+ "artist": "Adele",
+ "categories": [
+  "Pop"
+ ],
+ "key": "Dm",
+ "capo": 3,
+ "bpm": 79,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "Dm",
+     "Bb",
+     "F",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "Dm",
+     "Bb",
+     "F",
+     "C"
+    ],
+    [
+     "Dm",
+     "Bb",
+     "F",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Bb",
+     "F",
+     "C",
+     "Dm"
+    ],
+    [
+     "Bb",
+     "F",
+     "C",
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "Dm",
+     "Bb",
+     "F",
+     "C"
+    ],
+    [
+     "Dm",
+     "Bb",
+     "F",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Bb",
+     "F",
+     "C",
+     "Dm"
+    ],
+    [
+     "Bb",
+     "F",
+     "C",
+     "Dm"
+    ]
+   ]
+  }
+ ]
+}

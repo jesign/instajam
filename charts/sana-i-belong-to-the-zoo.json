@@ -1,0 +1,155 @@
+{
+ "id": "sana-i-belong-to-the-zoo",
+ "title": "Sana",
+ "artist": "I Belong to the Zoo",
+ "categories": [
+  "OPM"
+ ],
+ "key": "C",
+ "bpm": 78,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "Cadd9",
+     "G",
+     "Em7",
+     "Dsus2"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "Cadd9",
+     "G",
+     "Em7",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Refrain",
+   "rows": [
+    [
+     "Em7",
+     "G",
+     "Em7",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Cadd9",
+     "G",
+     "Em7",
+     "G"
+    ],
+    [
+     "Cadd9",
+     "G",
+     "F#m",
+     "Dsus2"
+    ],
+    [
+     "Cadd9",
+     "G",
+     "Em7",
+     "G"
+    ],
+    [
+     "Cadd9",
+     "G",
+     "F#m",
+     "Cadd9"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "Cadd9",
+     "G",
+     "Em7",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Refrain",
+   "rows": [
+    [
+     "Em7",
+     "G",
+     "Em7",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Cadd9",
+     "G",
+     "Em7",
+     "G"
+    ],
+    [
+     "Cadd9",
+     "G",
+     "F#m",
+     "Dsus2"
+    ],
+    [
+     "Cadd9",
+     "G",
+     "Em7",
+     "G"
+    ],
+    [
+     "Cadd9",
+     "G",
+     "F#m",
+     "Cadd9"
+    ]
+   ]
+  },
+  {
+   "name": "Final Chorus",
+   "rows": [
+    [
+     "Cadd9",
+     "G",
+     "Em7",
+     "G"
+    ],
+    [
+     "Cadd9",
+     "G",
+     "F#m"
+    ],
+    [
+     "Cadd9",
+     "G",
+     "Em7",
+     "G"
+    ],
+    [
+     "Cadd9",
+     "G",
+     "Em7",
+     "Cadd9"
+    ]
+   ]
+  }
+ ]
+}

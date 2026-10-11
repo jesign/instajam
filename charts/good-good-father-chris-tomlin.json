@@ -1,0 +1,125 @@
+{
+ "id": "good-good-father-chris-tomlin",
+ "title": "Good Good Father",
+ "artist": "Chris Tomlin",
+ "categories": [
+  "Worship"
+ ],
+ "key": "G",
+ "capo": 2,
+ "bpm": 70,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "C",
+     "G",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "G",
+     "C",
+     "G",
+     "C"
+    ],
+    [
+     "G",
+     "C",
+     "G",
+     "C"
+    ],
+    [
+     "C",
+     "G/B",
+     "Am7",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G/B",
+     "Am7",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "C",
+     "G",
+     "C"
+    ],
+    [
+     "G",
+     "C",
+     "G",
+     "C"
+    ],
+    [
+     "C",
+     "G/B",
+     "Am7",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G/B",
+     "Am7",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "C",
+     "Em",
+     "Am",
+     "G"
+    ],
+    [
+     "C",
+     "Em",
+     "D",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G/B",
+     "Am7",
+     "D"
+    ]
+   ],
+   "repeat": 4
+  }
+ ]
+}

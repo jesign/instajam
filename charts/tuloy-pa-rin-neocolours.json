@@ -1,0 +1,113 @@
+{
+ "id": "tuloy-pa-rin-neocolours",
+ "title": "Tuloy Pa Rin",
+ "artist": "Neocolours",
+ "categories": [
+  "OPM Classics"
+ ],
+ "key": "G",
+ "capo": 5,
+ "bpm": 76,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "C",
+     "Cadd9",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "G",
+     "Em7",
+     "G",
+     "Em7 D/F#"
+    ]
+   ]
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Em7",
+     "G D/F#",
+     "Cadd9 G",
+     "Cadd9 D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G D/F#",
+     "Em7",
+     "Cadd9 D/F#",
+     "G D"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "Em7",
+     "G",
+     "Em7 D/F#"
+    ]
+   ]
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Em7",
+     "G D/F#",
+     "Cadd9 G",
+     "Cadd9 D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G D/F#",
+     "Em7",
+     "Cadd9 D/F#",
+     "G D"
+    ]
+   ]
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Em7",
+     "G D/F#",
+     "Cadd9 G",
+     "Cadd9 D"
+    ]
+   ]
+  },
+  {
+   "name": "Final Chorus",
+   "rows": [
+    [
+     "G D/F#",
+     "Em7",
+     "Cadd9 D/F#",
+     "G D",
+     "G"
+    ]
+   ]
+  }
+ ]
+}

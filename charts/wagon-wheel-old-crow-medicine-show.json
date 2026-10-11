@@ -1,0 +1,92 @@
+{
+ "id": "wagon-wheel-old-crow-medicine-show",
+ "title": "Wagon Wheel",
+ "artist": "Old Crow Medicine Show",
+ "categories": [
+  "Rock"
+ ],
+ "key": "G",
+ "capo": 2,
+ "bpm": 148,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ],
+    [
+     "G",
+     "D",
+     "C",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ],
+    [
+     "G",
+     "D",
+     "C",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ],
+    [
+     "G",
+     "D",
+     "C",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ],
+    [
+     "G",
+     "D",
+     "C",
+     "C"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "id": "someone-like-you-adele",
+ "title": "Someone Like You",
+ "artist": "Adele",
+ "categories": [
+  "Pop",
+  "Love Songs"
+ ],
+ "key": "A",
+ "bpm": 67,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "A",
+     "E",
+     "F#m",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "A",
+     "E",
+     "F#m",
+     "D"
+    ],
+    [
+     "A",
+     "E",
+     "F#m",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "E",
+     "F#m",
+     "D",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "A",
+     "E",
+     "F#m",
+     "D"
+    ],
+    [
+     "A",
+     "E",
+     "F#m",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "A",
+     "E",
+     "F#m",
+     "D"
+    ],
+    [
+     "A",
+     "E",
+     "F#m",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "E",
+     "F#m",
+     "D",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "A",
+     "E",
+     "F#m",
+     "D"
+    ],
+    [
+     "A",
+     "E",
+     "F#m",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "A",
+     "E",
+     "F#m",
+     "D"
+    ]
+   ]
+  }
+ ]
+}

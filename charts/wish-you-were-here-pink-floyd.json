@@ -1,0 +1,74 @@
+{
+ "id": "wish-you-were-here-pink-floyd",
+ "title": "Wish You Were Here",
+ "artist": "Pink Floyd",
+ "categories": [
+  "Rock"
+ ],
+ "key": "G",
+ "bpm": 60,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "Em7",
+     "G",
+     "Em7",
+     "G"
+    ],
+    [
+     "Em7",
+     "G",
+     "Asus4",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "C",
+     "D",
+     "Am",
+     "G"
+    ],
+    [
+     "D",
+     "C",
+     "Am",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "D",
+     "Am",
+     "G"
+    ],
+    [
+     "D",
+     "C",
+     "Am",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "Em7",
+     "G",
+     "Em7",
+     "G"
+    ]
+   ]
+  }
+ ]
+}

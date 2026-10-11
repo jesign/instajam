@@ -1,0 +1,89 @@
+{
+ "id": "more-than-words-extreme",
+ "title": "More Than Words",
+ "artist": "Extreme",
+ "categories": [
+  "Love Songs"
+ ],
+ "key": "G",
+ "bpm": 92,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "Cadd9",
+     "Am7",
+     "C"
+    ],
+    [
+     "D",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "G",
+     "Cadd9",
+     "Am7",
+     "C"
+    ],
+    [
+     "D",
+     "G",
+     "Cadd9",
+     "Am7"
+    ],
+    [
+     "C",
+     "D",
+     "Em",
+     "Bm7"
+    ],
+    [
+     "Am7",
+     "D",
+     "G",
+     "D/F#"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "G",
+     "D/F#",
+     "Em",
+     "Bm"
+    ],
+    [
+     "C",
+     "G/B",
+     "Am7",
+     "D7"
+    ],
+    [
+     "G",
+     "G",
+     "D/F#",
+     "Em7"
+    ],
+    [
+     "Bm7",
+     "C",
+     "G/B",
+     "Am7"
+    ],
+    [
+     "D7",
+     "G"
+    ]
+   ]
+  }
+ ]
+}

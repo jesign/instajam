@@ -1,0 +1,109 @@
+{
+ "id": "batang-bata-ka-pa-apo-hiking-society",
+ "title": "Batang Bata Ka Pa",
+ "artist": "APO Hiking Society",
+ "categories": [
+  "OPM Classics"
+ ],
+ "key": "D",
+ "bpm": 76,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "D",
+     "D",
+     "D",
+     "Dsus4"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "D",
+     "G",
+     "A",
+     "G F#m"
+    ],
+    [
+     "Bm7",
+     "Em",
+     "D",
+     "A"
+    ],
+    [
+     "C",
+     "F#m",
+     "Bm7"
+    ],
+    [
+     "Em",
+     "C",
+     "Bm7",
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "D",
+     "G",
+     "F#m",
+     "Bm7"
+    ],
+    [
+     "Em",
+     "D",
+     "A"
+    ],
+    [
+     "C",
+     "F#m",
+     "Bm7",
+     "Em"
+    ],
+    [
+     "C",
+     "Bm7",
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "A",
+     "Bm",
+     "A"
+    ],
+    [
+     "G",
+     "A",
+     "D",
+     "A"
+    ],
+    [
+     "Bm",
+     "A",
+     "G",
+     "A"
+    ],
+    [
+     "Bm7",
+     "F#m",
+     "G",
+     "Em7",
+     "A"
+    ]
+   ],
+   "repeat": 3
+  }
+ ]
+}

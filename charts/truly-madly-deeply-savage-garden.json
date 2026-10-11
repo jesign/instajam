@@ -1,0 +1,142 @@
+{
+ "id": "truly-madly-deeply-savage-garden",
+ "title": "Truly Madly Deeply",
+ "artist": "Savage Garden",
+ "categories": [
+  "Love Songs"
+ ],
+ "key": "C",
+ "bpm": 80,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "C",
+     "G",
+     "F",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "C",
+     "G",
+     "F",
+     "G"
+    ],
+    [
+     "C",
+     "G",
+     "F",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Am",
+     "C",
+     "F",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G",
+     "F",
+     "G"
+    ],
+    [
+     "C",
+     "G",
+     "F",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "C",
+     "G",
+     "F",
+     "G"
+    ],
+    [
+     "C",
+     "G",
+     "F",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Am",
+     "C",
+     "F",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G",
+     "F",
+     "G"
+    ],
+    [
+     "C",
+     "G",
+     "F",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "F",
+     "G",
+     "F",
+     "G"
+    ],
+    [
+     "F",
+     "G",
+     "C",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "C",
+     "G",
+     "F",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  }
+ ]
+}

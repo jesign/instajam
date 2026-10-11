@@ -1,0 +1,103 @@
+{
+ "id": "hey-there-delilah-plain-white-ts",
+ "title": "Hey There Delilah",
+ "artist": "Plain White T's",
+ "categories": [
+  "Pop"
+ ],
+ "key": "D",
+ "bpm": 104,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "D",
+     "F#m",
+     "D",
+     "F#m"
+    ]
+   ]
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "D",
+     "F#m",
+     "D",
+     "F#m"
+    ],
+    [
+     "Bm",
+     "G",
+     "A",
+     "A"
+    ],
+    [
+     "D",
+     "F#m",
+     "D",
+     "F#m"
+    ],
+    [
+     "Bm",
+     "G",
+     "A",
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "Bm",
+     "D",
+     "Bm"
+    ],
+    [
+     "D",
+     "Bm",
+     "G",
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "D",
+     "F#m",
+     "D",
+     "F#m"
+    ],
+    [
+     "Bm",
+     "G",
+     "A",
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "Bm",
+     "D",
+     "Bm"
+    ],
+    [
+     "D",
+     "Bm",
+     "G",
+     "A"
+    ]
+   ]
+  }
+ ]
+}

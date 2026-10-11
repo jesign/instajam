@@ -1,0 +1,113 @@
+{
+ "id": "blessed-be-your-name-matt-redman",
+ "title": "Blessed Be Your Name",
+ "artist": "Matt Redman",
+ "categories": [
+  "Worship"
+ ],
+ "key": "A",
+ "bpm": 118,
+ "sections": [
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "A",
+     "E",
+     "F#m",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "A",
+     "E",
+     "F#m",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "A",
+     "E",
+     "F#m",
+     "D"
+    ],
+    [
+     "A",
+     "E",
+     "F#m",
+     "E D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "A",
+     "E",
+     "F#m",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "A",
+     "E",
+     "F#m",
+     "D"
+    ],
+    [
+     "A",
+     "E",
+     "F#m",
+     "E D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "A",
+     "E",
+     "F#m",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "A",
+     "E",
+     "F#m",
+     "D"
+    ],
+    [
+     "A",
+     "E",
+     "F#m",
+     "E D"
+    ]
+   ],
+   "repeat": 2
+  }
+ ]
+}

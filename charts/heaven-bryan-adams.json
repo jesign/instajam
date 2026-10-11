@@ -1,0 +1,74 @@
+{
+ "id": "heaven-bryan-adams",
+ "title": "Heaven",
+ "artist": "Bryan Adams",
+ "categories": [
+  "Love Songs"
+ ],
+ "key": "C",
+ "bpm": 90,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "C",
+     "Am",
+     "F",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "C",
+     "Am",
+     "F",
+     "G"
+    ],
+    [
+     "C",
+     "Am",
+     "F",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "F",
+     "G",
+     "Am",
+     "Am"
+    ],
+    [
+     "F",
+     "G",
+     "Am",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "Dm",
+     "C/E",
+     "F",
+     "G/B"
+    ],
+    [
+     "C",
+     "Gsus4",
+     "G",
+     "G"
+    ]
+   ]
+  }
+ ]
+}

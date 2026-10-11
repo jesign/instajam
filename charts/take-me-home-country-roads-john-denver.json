@@ -1,0 +1,114 @@
+{
+ "id": "take-me-home-country-roads-john-denver",
+ "title": "Take Me Home, Country Roads",
+ "artist": "John Denver",
+ "categories": [
+  "Pop"
+ ],
+ "key": "G",
+ "bpm": 82,
+ "sections": [
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "G",
+     "Em",
+     "D",
+     "C"
+    ],
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ],
+    [
+     "G",
+     "D",
+     "C",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "Em",
+     "D",
+     "C"
+    ],
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ],
+    [
+     "G",
+     "D",
+     "C",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "Em",
+     "D",
+     "G",
+     "C"
+    ],
+    [
+     "Em",
+     "D",
+     "C",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ],
+    [
+     "G",
+     "D",
+     "C",
+     "G"
+    ]
+   ]
+  }
+ ]
+}

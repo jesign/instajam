@@ -1,0 +1,119 @@
+{
+ "id": "gitara-parokya-ni-edgar",
+ "title": "Gitara",
+ "artist": "Parokya ni Edgar",
+ "categories": [
+  "OPM"
+ ],
+ "key": "G",
+ "bpm": 100,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "Bm",
+     "C",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "G",
+     "Bm",
+     "C",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Am7",
+     "D"
+    ],
+    [
+     "G",
+     "D Em"
+    ],
+    [
+     "Am7",
+     "D",
+     "G",
+     "D Em"
+    ],
+    [
+     "Am7",
+     "D",
+     "Em"
+    ],
+    [
+     "Am7",
+     "D",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Ad lib",
+   "rows": [
+    [
+     "G",
+     "Bm",
+     "C",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Am7",
+     "D"
+    ],
+    [
+     "G",
+     "D Em"
+    ],
+    [
+     "Am7",
+     "D",
+     "G",
+     "D Em"
+    ],
+    [
+     "Am7",
+     "D",
+     "Em"
+    ],
+    [
+     "Am7",
+     "D",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "Am7",
+     "D"
+    ],
+    [
+     "G"
+    ]
+   ]
+  }
+ ]
+}

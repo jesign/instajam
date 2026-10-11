@@ -1,0 +1,129 @@
+{
+ "id": "anak-freddie-aguilar",
+ "title": "Anak",
+ "artist": "Freddie Aguilar",
+ "categories": [
+  "OPM Classics"
+ ],
+ "key": "Am",
+ "bpm": 72,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "Am",
+     "F",
+     "G",
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "Am",
+     "F",
+     "G",
+     "Am"
+    ],
+    [
+     "Am",
+     "F",
+     "G",
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "F",
+     "G",
+     "Am"
+    ],
+    [
+     "F",
+     "G",
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "Am",
+     "F",
+     "G",
+     "Am"
+    ],
+    [
+     "Am",
+     "F",
+     "G",
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "F",
+     "G",
+     "Am"
+    ],
+    [
+     "F",
+     "G",
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 3",
+   "rows": [
+    [
+     "Am",
+     "F",
+     "G",
+     "Am"
+    ],
+    [
+     "Am",
+     "F",
+     "G",
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "F",
+     "G",
+     "Am"
+    ],
+    [
+     "F",
+     "G",
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "F",
+     "G",
+     "Am"
+    ]
+   ]
+  }
+ ]
+}

@@ -21,6 +21,42 @@
    "key": "G"
   },
   {
+   "id": "alam-kong-may-magagawa-ang-diyos-praise-song",
+   "title": "Alam Kong May Magagawa Ang Diyos",
+   "artist": "Praise Song",
+   "categories": [
+    "Worship"
+   ],
+   "key": "C"
+  },
+  {
+   "id": "alapaap-eraserheads",
+   "title": "Alapaap",
+   "artist": "Eraserheads",
+   "categories": [
+    "OPM"
+   ],
+   "key": "G"
+  },
+  {
+   "id": "amazing-grace-traditional",
+   "title": "Amazing Grace",
+   "artist": "Traditional",
+   "categories": [
+    "Worship"
+   ],
+   "key": "G"
+  },
+  {
+   "id": "anak-freddie-aguilar",
+   "title": "Anak",
+   "artist": "Freddie Aguilar",
+   "categories": [
+    "OPM Classics"
+   ],
+   "key": "Am"
+  },
+  {
    "id": "ang-huling-el-bimbo-eraserheads",
    "title": "Ang Huling El Bimbo",
    "artist": "Eraserheads",
@@ -28,6 +64,15 @@
     "OPM Classics"
    ],
    "key": "G"
+  },
+  {
+   "id": "batang-bata-ka-pa-apo-hiking-society",
+   "title": "Batang Bata Ka Pa",
+   "artist": "APO Hiking Society",
+   "categories": [
+    "OPM Classics"
+   ],
+   "key": "D"
   },
   {
    "id": "beautiful-in-white-shane-filan",
@@ -47,6 +92,24 @@
     "Love Songs"
    ],
    "key": "F"
+  },
+  {
+   "id": "blessed-be-your-name-matt-redman",
+   "title": "Blessed Be Your Name",
+   "artist": "Matt Redman",
+   "categories": [
+    "Worship"
+   ],
+   "key": "A"
+  },
+  {
+   "id": "brown-eyed-girl-van-morrison",
+   "title": "Brown Eyed Girl",
+   "artist": "Van Morrison",
+   "categories": [
+    "Pop"
+   ],
+   "key": "G"
   },
   {
    "id": "build-my-life-housefires",
@@ -76,6 +139,24 @@
    "key": "C"
   },
   {
+   "id": "creep-radiohead",
+   "title": "Creep",
+   "artist": "Radiohead",
+   "categories": [
+    "Rock"
+   ],
+   "key": "G"
+  },
+  {
+   "id": "ewan-apo-hiking-society",
+   "title": "Ewan",
+   "artist": "APO Hiking Society",
+   "categories": [
+    "OPM Classics"
+   ],
+   "key": "Em"
+  },
+  {
    "id": "forevermore-side-a",
    "title": "Forevermore",
    "artist": "Side A",
@@ -84,6 +165,24 @@
     "Love Songs"
    ],
    "key": "E"
+  },
+  {
+   "id": "gitara-parokya-ni-edgar",
+   "title": "Gitara",
+   "artist": "Parokya ni Edgar",
+   "categories": [
+    "OPM"
+   ],
+   "key": "G"
+  },
+  {
+   "id": "good-good-father-chris-tomlin",
+   "title": "Good Good Father",
+   "artist": "Chris Tomlin",
+   "categories": [
+    "Worship"
+   ],
+   "key": "G"
   },
   {
    "id": "good-riddance-time-of-your-life-green-day",
@@ -102,6 +201,24 @@
     "Worship"
    ],
    "key": "G"
+  },
+  {
+   "id": "hallelujah-jeff-buckley",
+   "title": "Hallelujah",
+   "artist": "Jeff Buckley",
+   "categories": [
+    "Love Songs"
+   ],
+   "key": "C"
+  },
+  {
+   "id": "handog-florante",
+   "title": "Handog",
+   "artist": "Florante",
+   "categories": [
+    "OPM Classics"
+   ],
+   "key": "C"
   },
   {
    "id": "harana-parokya-ni-edgar",
@@ -123,6 +240,42 @@
    "key": "G"
   },
   {
+   "id": "heaven-bryan-adams",
+   "title": "Heaven",
+   "artist": "Bryan Adams",
+   "categories": [
+    "Love Songs"
+   ],
+   "key": "C"
+  },
+  {
+   "id": "hello-adele",
+   "title": "Hello",
+   "artist": "Adele",
+   "categories": [
+    "Pop"
+   ],
+   "key": "Dm"
+  },
+  {
+   "id": "hey-there-delilah-plain-white-ts",
+   "title": "Hey There Delilah",
+   "artist": "Plain White T's",
+   "categories": [
+    "Pop"
+   ],
+   "key": "D"
+  },
+  {
+   "id": "hinahanap-hanap-kita-rivermaya",
+   "title": "Hinahanap-hanap Kita",
+   "artist": "Rivermaya",
+   "categories": [
+    "OPM Classics"
+   ],
+   "key": "G"
+  },
+  {
    "id": "hotel-california-eagles",
    "title": "Hotel California",
    "artist": "Eagles",
@@ -130,6 +283,15 @@
     "Rock"
    ],
    "key": "Bm"
+  },
+  {
+   "id": "how-great-is-our-god-chris-tomlin",
+   "title": "How Great Is Our God",
+   "artist": "Chris Tomlin",
+   "categories": [
+    "Worship"
+   ],
+   "key": "C"
   },
   {
    "id": "im-yours-jason-mraz",
@@ -189,6 +351,15 @@
    "key": "D"
   },
   {
+   "id": "kiss-me-sixpence-none-the-richer",
+   "title": "Kiss Me",
+   "artist": "Sixpence None the Richer",
+   "categories": [
+    "Love Songs"
+   ],
+   "key": "C"
+  },
+  {
    "id": "knockin-on-heavens-door-bob-dylan",
    "title": "Knockin' on Heaven's Door",
    "artist": "Bob Dylan",
@@ -206,6 +377,24 @@
     "Love Songs"
    ],
    "key": "E"
+  },
+  {
+   "id": "lean-on-me-bill-withers",
+   "title": "Lean on Me",
+   "artist": "Bill Withers",
+   "categories": [
+    "Pop"
+   ],
+   "key": "C"
+  },
+  {
+   "id": "let-her-go-passenger",
+   "title": "Let Her Go",
+   "artist": "Passenger",
+   "categories": [
+    "Pop"
+   ],
+   "key": "C"
   },
   {
    "id": "let-it-be-the-beatles",
@@ -237,6 +426,33 @@
    "key": "C"
   },
   {
+   "id": "migraine-moonstar88",
+   "title": "Migraine",
+   "artist": "Moonstar88",
+   "categories": [
+    "OPM"
+   ],
+   "key": "D"
+  },
+  {
+   "id": "minsan-eraserheads",
+   "title": "Minsan",
+   "artist": "Eraserheads",
+   "categories": [
+    "OPM Classics"
+   ],
+   "key": "D"
+  },
+  {
+   "id": "more-than-words-extreme",
+   "title": "More Than Words",
+   "artist": "Extreme",
+   "categories": [
+    "Love Songs"
+   ],
+   "key": "G"
+  },
+  {
    "id": "multo-cup-of-joe",
    "title": "Multo",
    "artist": "Cup of Joe",
@@ -246,11 +462,65 @@
    "key": "E"
   },
   {
+   "id": "mundo-iv-of-spades",
+   "title": "Mundo",
+   "artist": "IV of Spades",
+   "categories": [
+    "OPM"
+   ],
+   "key": "A"
+  },
+  {
    "id": "oceans-hillsong-united",
    "title": "Oceans (Where Feet May Fail)",
    "artist": "Hillsong UNITED",
    "categories": [
     "Worship"
+   ],
+   "key": "D"
+  },
+  {
+   "id": "overdrive-eraserheads",
+   "title": "Overdrive",
+   "artist": "Eraserheads",
+   "categories": [
+    "OPM Classics"
+   ],
+   "key": "A"
+  },
+  {
+   "id": "pangarap-lang-kita-parokya-ni-edgar",
+   "title": "Pangarap Lang Kita",
+   "artist": "Parokya ni Edgar",
+   "categories": [
+    "OPM"
+   ],
+   "key": "D"
+  },
+  {
+   "id": "pare-ko-eraserheads",
+   "title": "Pare Ko",
+   "artist": "Eraserheads",
+   "categories": [
+    "OPM"
+   ],
+   "key": "G"
+  },
+  {
+   "id": "pasensya-ka-na-silent-sanctuary",
+   "title": "Pasensya Ka Na",
+   "artist": "Silent Sanctuary",
+   "categories": [
+    "OPM"
+   ],
+   "key": "A"
+  },
+  {
+   "id": "pasilyo-sunkissed-lola",
+   "title": "Pasilyo",
+   "artist": "SunKissed Lola",
+   "categories": [
+    "OPM"
    ],
    "key": "D"
   },
@@ -265,6 +535,88 @@
    "key": "G"
   },
   {
+   "id": "photograph-ed-sheeran",
+   "title": "Photograph",
+   "artist": "Ed Sheeran",
+   "categories": [
+    "Love Songs"
+   ],
+   "key": "D"
+  },
+  {
+   "id": "puso-koy-nananabik-bishop-art-gonzales",
+   "title": "Puso Ko'y Nananabik",
+   "artist": "Bishop Art Gonzales",
+   "categories": [
+    "Worship"
+   ],
+   "key": "G"
+  },
+  {
+   "id": "reckless-love-cory-asbury",
+   "title": "Reckless Love",
+   "artist": "Cory Asbury",
+   "categories": [
+    "Worship"
+   ],
+   "key": "G"
+  },
+  {
+   "id": "right-here-waiting-richard-marx",
+   "title": "Right Here Waiting",
+   "artist": "Richard Marx",
+   "categories": [
+    "Love Songs"
+   ],
+   "key": "G"
+  },
+  {
+   "id": "riptide-vance-joy",
+   "title": "Riptide",
+   "artist": "Vance Joy",
+   "categories": [
+    "Pop"
+   ],
+   "key": "Am"
+  },
+  {
+   "id": "sa-ugoy-ng-duyan-lea-salonga",
+   "title": "Sa Ugoy ng Duyan",
+   "artist": "Lea Salonga",
+   "categories": [
+    "OPM Classics"
+   ],
+   "key": "C"
+  },
+  {
+   "id": "sana-i-belong-to-the-zoo",
+   "title": "Sana",
+   "artist": "I Belong to the Zoo",
+   "categories": [
+    "OPM"
+   ],
+   "key": "C"
+  },
+  {
+   "id": "say-you-wont-let-go-james-arthur",
+   "title": "Say You Won't Let Go",
+   "artist": "James Arthur",
+   "categories": [
+    "Love Songs"
+   ],
+   "key": "G"
+  },
+  {
+   "id": "someone-like-you-adele",
+   "title": "Someone Like You",
+   "artist": "Adele",
+   "categories": [
+    "Pop",
+    "Love Songs"
+   ],
+   "key": "A"
+  },
+  {
    "id": "someone-you-loved-lewis-capaldi",
    "title": "Someone You Loved",
    "artist": "Lewis Capaldi",
@@ -272,6 +624,34 @@
     "Pop"
    ],
    "key": "C"
+  },
+  {
+   "id": "stand-by-me-ben-e-king",
+   "title": "Stand By Me",
+   "artist": "Ben E. King",
+   "categories": [
+    "Pop",
+    "Love Songs"
+   ],
+   "key": "G"
+  },
+  {
+   "id": "sweet-home-alabama-lynyrd-skynyrd",
+   "title": "Sweet Home Alabama",
+   "artist": "Lynyrd Skynyrd",
+   "categories": [
+    "Rock"
+   ],
+   "key": "D"
+  },
+  {
+   "id": "tadhana-up-dharma-down",
+   "title": "Tadhana",
+   "artist": "Up Dharma Down",
+   "categories": [
+    "OPM"
+   ],
+   "key": "G"
   },
   {
    "id": "tagpuan-moira-dela-torre",
@@ -284,6 +664,15 @@
    "key": "G"
   },
   {
+   "id": "take-me-home-country-roads-john-denver",
+   "title": "Take Me Home, Country Roads",
+   "artist": "John Denver",
+   "categories": [
+    "Pop"
+   ],
+   "key": "G"
+  },
+  {
    "id": "thinking-out-loud-ed-sheeran",
    "title": "Thinking Out Loud",
    "artist": "Ed Sheeran",
@@ -292,6 +681,69 @@
     "Love Songs"
    ],
    "key": "C"
+  },
+  {
+   "id": "tindahan-ni-aling-nena-eraserheads",
+   "title": "Tindahan ni Aling Nena",
+   "artist": "Eraserheads",
+   "categories": [
+    "OPM Classics"
+   ],
+   "key": "C"
+  },
+  {
+   "id": "torete-moonstar88",
+   "title": "Torete",
+   "artist": "Moonstar88",
+   "categories": [
+    "OPM"
+   ],
+   "key": "C"
+  },
+  {
+   "id": "toyang-eraserheads",
+   "title": "Toyang",
+   "artist": "Eraserheads",
+   "categories": [
+    "OPM Classics"
+   ],
+   "key": "A"
+  },
+  {
+   "id": "truly-madly-deeply-savage-garden",
+   "title": "Truly Madly Deeply",
+   "artist": "Savage Garden",
+   "categories": [
+    "Love Songs"
+   ],
+   "key": "C"
+  },
+  {
+   "id": "tuloy-pa-rin-neocolours",
+   "title": "Tuloy Pa Rin",
+   "artist": "Neocolours",
+   "categories": [
+    "OPM Classics"
+   ],
+   "key": "G"
+  },
+  {
+   "id": "unchained-melody-righteous-brothers",
+   "title": "Unchained Melody",
+   "artist": "The Righteous Brothers",
+   "categories": [
+    "Love Songs"
+   ],
+   "key": "C"
+  },
+  {
+   "id": "wagon-wheel-old-crow-medicine-show",
+   "title": "Wagon Wheel",
+   "artist": "Old Crow Medicine Show",
+   "categories": [
+    "Rock"
+   ],
+   "key": "G"
   },
   {
    "id": "way-maker-sinach",
@@ -312,11 +764,38 @@
    "key": "D"
   },
   {
+   "id": "wish-you-were-here-pink-floyd",
+   "title": "Wish You Were Here",
+   "artist": "Pink Floyd",
+   "categories": [
+    "Rock"
+   ],
+   "key": "G"
+  },
+  {
    "id": "with-a-smile-eraserheads",
    "title": "With a Smile",
    "artist": "Eraserheads",
    "categories": [
     "OPM Classics"
+   ],
+   "key": "G"
+  },
+  {
+   "id": "with-or-without-you-u2",
+   "title": "With or Without You",
+   "artist": "U2",
+   "categories": [
+    "Rock"
+   ],
+   "key": "D"
+  },
+  {
+   "id": "wonderful-tonight-eric-clapton",
+   "title": "Wonderful Tonight",
+   "artist": "Eric Clapton",
+   "categories": [
+    "Love Songs"
    ],
    "key": "G"
   },
@@ -337,6 +816,15 @@
     "Rock"
    ],
    "key": "B"
+  },
+  {
+   "id": "zombie-the-cranberries",
+   "title": "Zombie",
+   "artist": "The Cranberries",
+   "categories": [
+    "Rock"
+   ],
+   "key": "Em"
   }
  ]
 }

@@ -1,0 +1,76 @@
+{
+ "id": "alam-kong-may-magagawa-ang-diyos-praise-song",
+ "title": "Alam Kong May Magagawa Ang Diyos",
+ "artist": "Praise Song",
+ "categories": [
+  "Worship"
+ ],
+ "key": "C",
+ "bpm": 84,
+ "sections": [
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "C",
+     "G/B",
+     "C",
+     "C/E"
+    ],
+    [
+     "C",
+     "F",
+     "C",
+     "F"
+    ],
+    [
+     "C",
+     "Am",
+     "Dm",
+     "G C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "F",
+     "G",
+     "C"
+    ],
+    [
+     "C",
+     "F",
+     "C Dm",
+     "G C"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "F",
+     "C",
+     "G",
+     "C C7"
+    ]
+   ]
+  },
+  {
+   "name": "Ending",
+   "rows": [
+    [
+     "F",
+     "C",
+     "Dm",
+     "G C"
+    ]
+   ],
+   "repeat": 3
+  }
+ ]
+}

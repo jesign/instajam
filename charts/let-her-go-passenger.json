@@ -1,0 +1,109 @@
+{
+ "id": "let-her-go-passenger",
+ "title": "Let Her Go",
+ "artist": "Passenger",
+ "categories": [
+  "Pop"
+ ],
+ "key": "C",
+ "capo": 7,
+ "bpm": 75,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "F",
+     "G",
+     "Am",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "F",
+     "C",
+     "G",
+     "Am"
+    ],
+    [
+     "F",
+     "C",
+     "G",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Am",
+     "F",
+     "G",
+     "Em"
+    ],
+    [
+     "Am",
+     "F",
+     "G",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "F",
+     "C",
+     "G",
+     "Am"
+    ],
+    [
+     "F",
+     "C",
+     "G",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "F",
+     "C",
+     "G",
+     "Am"
+    ],
+    [
+     "F",
+     "C",
+     "G",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "F",
+     "C",
+     "G",
+     "Am"
+    ],
+    [
+     "F",
+     "C",
+     "G",
+     "G"
+    ]
+   ]
+  }
+ ]
+}

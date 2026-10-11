@@ -1,0 +1,148 @@
+{
+ "id": "pangarap-lang-kita-parokya-ni-edgar",
+ "title": "Pangarap Lang Kita",
+ "artist": "Parokya ni Edgar",
+ "categories": [
+  "OPM"
+ ],
+ "key": "D",
+ "bpm": 120,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "A",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse",
+   "rows": [
+    [
+     "G",
+     "A",
+     "D"
+    ],
+    [
+     "G",
+     "A",
+     "D"
+    ],
+    [
+     "G",
+     "A",
+     "Bm"
+    ],
+    [
+     "G",
+     "A",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "A",
+     "D"
+    ],
+    [
+     "G",
+     "A",
+     "D"
+    ],
+    [
+     "G A",
+     "D C#m",
+     "Bm A"
+    ],
+    [
+     "G",
+     "A",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2 (up to E)",
+   "rows": [
+    [
+     "A",
+     "B",
+     "E"
+    ],
+    [
+     "A",
+     "B",
+     "E"
+    ],
+    [
+     "A",
+     "B",
+     "C#m"
+    ],
+    [
+     "A",
+     "B",
+     "E"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus (E)",
+   "rows": [
+    [
+     "A",
+     "B",
+     "E"
+    ],
+    [
+     "A",
+     "B",
+     "E"
+    ],
+    [
+     "A B",
+     "E D#m",
+     "C#m B"
+    ],
+    [
+     "A",
+     "B",
+     "E"
+    ]
+   ]
+  },
+  {
+   "name": "Final Chorus (up to Eb)",
+   "rows": [
+    [
+     "Ab",
+     "Bb",
+     "Eb"
+    ],
+    [
+     "Ab",
+     "Bb",
+     "Eb"
+    ],
+    [
+     "Ab Bb",
+     "Eb D",
+     "Cm Bb"
+    ],
+    [
+     "Ab",
+     "Bb",
+     "Eb"
+    ]
+   ]
+  }
+ ]
+}
