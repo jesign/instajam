@@ -1,0 +1,187 @@
+{
+ "id": "ikaw-at-ako-moira-dela-torre-jason-marvin",
+ "title": "Ikaw at Ako",
+ "artist": "Moira Dela Torre & Jason Marvin",
+ "categories": [
+  "Love Songs",
+  "OPM"
+ ],
+ "key": "C",
+ "capo": 3,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "C",
+     "Am",
+     "Fmaj7",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "C",
+     "C/B",
+     "Am",
+     "G"
+    ],
+    [
+     "Fmaj7",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Fmaj7",
+     "G",
+     "C C/B",
+     "Am"
+    ],
+    [
+     "Fmaj7",
+     "G",
+     "C C/B",
+     "Am G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "C/B",
+     "Am",
+     "G"
+    ],
+    [
+     "Fmaj7",
+     "G",
+     "C C/B",
+     "Am G"
+    ],
+    [
+     "Fmaj7",
+     "G",
+     "Fmaj7",
+     "G"
+    ],
+    [
+     "C",
+     "Am",
+     "Fmaj7",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "C",
+     "C/B",
+     "Am",
+     "G"
+    ],
+    [
+     "Fmaj7",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Fmaj7",
+     "G",
+     "C C/B",
+     "Am"
+    ],
+    [
+     "Fmaj7",
+     "G",
+     "C C/B",
+     "Am G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "C/B",
+     "Am",
+     "G"
+    ],
+    [
+     "Fmaj7",
+     "G",
+     "C C/B",
+     "Am G"
+    ],
+    [
+     "Fmaj7",
+     "G",
+     "Fmaj7",
+     "G"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Interlude",
+   "rows": [
+    [
+     "C",
+     "C/B",
+     "Am",
+     "G"
+    ],
+    [
+     "Fmaj7",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "C/B",
+     "Am",
+     "G"
+    ],
+    [
+     "Fmaj7",
+     "G",
+     "C C/B",
+     "Am G"
+    ],
+    [
+     "Fmaj7",
+     "G",
+     "Fmaj7",
+     "G"
+    ],
+    [
+     "C"
+    ]
+   ]
+  }
+ ]
+}

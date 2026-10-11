@@ -1,0 +1,148 @@
+{
+ "id": "count-on-me-bruno-mars",
+ "title": "Count on Me",
+ "artist": "Bruno Mars",
+ "categories": [
+  "Pop"
+ ],
+ "key": "C",
+ "bpm": 89,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "C",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "C",
+     "Em",
+     "Am G",
+     "F"
+    ],
+    [
+     "C",
+     "Em",
+     "Am G",
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Dm",
+     "Em",
+     "F",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "Em",
+     "Am G",
+     "F"
+    ],
+    [
+     "C",
+     "Em",
+     "Am G",
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "C",
+     "Em",
+     "Am G",
+     "F"
+    ],
+    [
+     "C",
+     "Em",
+     "Am G",
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Dm",
+     "Em",
+     "F",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "Em",
+     "Am G",
+     "F"
+    ],
+    [
+     "C",
+     "Em",
+     "Am G",
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "Dm",
+     "Em",
+     "F",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "Em",
+     "Am G",
+     "F"
+    ],
+    [
+     "C",
+     "Em",
+     "Am G",
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "C"
+    ]
+   ]
+  }
+ ]
+}

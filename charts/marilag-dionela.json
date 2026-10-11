@@ -1,0 +1,158 @@
+{
+ "id": "marilag-dionela",
+ "title": "Marilag",
+ "artist": "Dionela",
+ "categories": [
+  "OPM",
+  "Love Songs"
+ ],
+ "key": "C",
+ "capo": 1,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "F",
+     "C",
+     "D",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Interlude",
+   "rows": [
+    [
+     "Fmaj7",
+     "Cmaj7",
+     "Am",
+     "G"
+    ],
+    [
+     "F",
+     "C",
+     "Am",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "F",
+     "C",
+     "Am",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "F",
+     "C",
+     "Am",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "F",
+     "C",
+     "Am7",
+     "G"
+    ],
+    [
+     "F",
+     "C",
+     "Am7",
+     "G"
+    ],
+    [
+     "F",
+     "C",
+     "Am7",
+     "G"
+    ],
+    [
+     "Dm7",
+     "Dm7",
+     "Am7",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "F",
+     "C",
+     "Am7",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "F",
+     "C",
+     "Am",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "F",
+     "C",
+     "Am7",
+     "G"
+    ],
+    [
+     "F",
+     "C",
+     "Am7",
+     "G"
+    ],
+    [
+     "F",
+     "C",
+     "Am7",
+     "G"
+    ],
+    [
+     "Dm7",
+     "Dm7",
+     "Am7",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "F",
+     "C",
+     "D",
+     "D"
+    ]
+   ]
+  }
+ ]
+}

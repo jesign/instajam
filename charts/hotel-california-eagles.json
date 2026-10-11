@@ -1,0 +1,138 @@
+{
+ "id": "hotel-california-eagles",
+ "title": "Hotel California",
+ "artist": "Eagles",
+ "categories": [
+  "Rock"
+ ],
+ "key": "Bm",
+ "bpm": 75,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "Bm",
+     "F#",
+     "A",
+     "E"
+    ],
+    [
+     "G",
+     "D",
+     "Em",
+     "F#"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "Bm",
+     "F#",
+     "A",
+     "E"
+    ],
+    [
+     "G",
+     "D",
+     "Em",
+     "F#"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "D",
+     "F#",
+     "Bm"
+    ],
+    [
+     "G",
+     "D",
+     "Em",
+     "F#"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "Bm",
+     "F#",
+     "A",
+     "E"
+    ],
+    [
+     "G",
+     "D",
+     "Em",
+     "F#"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "D",
+     "F#",
+     "Bm"
+    ],
+    [
+     "G",
+     "D",
+     "Em",
+     "F#"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 3",
+   "rows": [
+    [
+     "Bm",
+     "F#",
+     "A",
+     "E"
+    ],
+    [
+     "G",
+     "D",
+     "Em",
+     "F#"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "Bm",
+     "F#",
+     "A",
+     "E"
+    ],
+    [
+     "G",
+     "D",
+     "Em",
+     "F#"
+    ]
+   ],
+   "repeat": 4
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "id": "wonderwall-oasis",
+ "title": "Wonderwall",
+ "artist": "Oasis",
+ "categories": [
+  "Rock"
+ ],
+ "key": "Em",
+ "capo": 2,
+ "bpm": 87,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "Em7",
+     "G",
+     "Dsus4",
+     "Asus4"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "Em7",
+     "G",
+     "Dsus4",
+     "Asus4"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "Em7",
+     "G",
+     "Dsus4",
+     "Asus4"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Cadd9",
+     "Dsus4",
+     "Em7",
+     "Em7"
+    ],
+    [
+     "Cadd9",
+     "Dsus4",
+     "Em7",
+     "Em7"
+    ],
+    [
+     "Cadd9",
+     "Dsus4",
+     "G D/F#",
+     "Em7 G"
+    ],
+    [
+     "Asus4",
+     "Asus4"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Cadd9",
+     "Em7",
+     "G",
+     "Em7"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Verse 3",
+   "rows": [
+    [
+     "Em7",
+     "G",
+     "Dsus4",
+     "Asus4"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Cadd9",
+     "Dsus4",
+     "Em7",
+     "Em7"
+    ],
+    [
+     "Cadd9",
+     "Dsus4",
+     "Em7",
+     "Em7"
+    ],
+    [
+     "Cadd9",
+     "Dsus4",
+     "G D/F#",
+     "Em7 G"
+    ],
+    [
+     "Asus4",
+     "Asus4"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Cadd9",
+     "Em7",
+     "G",
+     "Em7"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "Cadd9",
+     "Em7",
+     "G",
+     "Em7"
+    ]
+   ],
+   "repeat": 4
+  }
+ ]
+}

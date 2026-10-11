@@ -1,0 +1,127 @@
+{
+ "id": "hari-ng-sablay-sugarfree",
+ "title": "Hari ng Sablay",
+ "artist": "Sugarfree",
+ "categories": [
+  "OPM Classics"
+ ],
+ "key": "G",
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "D",
+     "Cadd9",
+     "D",
+     "G"
+    ]
+   ],
+   "repeat": 6
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "Cadd9",
+     "D",
+     "G",
+     "D"
+    ]
+   ],
+   "repeat": 6
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Em",
+     "Cadd9",
+     "Em",
+     "Cadd9"
+    ],
+    [
+     "Am",
+     "Cadd9",
+     "D",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "Cadd9",
+     "Em",
+     "Em"
+    ],
+    [
+     "Cadd9",
+     "D",
+     "G",
+     "Cadd9"
+    ],
+    [
+     "Em",
+     "Cadd9",
+     "D",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "Cadd9",
+     "D",
+     "G",
+     "D"
+    ]
+   ],
+   "repeat": 6
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Em",
+     "Cadd9",
+     "Em",
+     "Cadd9"
+    ],
+    [
+     "Am",
+     "Cadd9",
+     "D",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "Cadd9",
+     "Em",
+     "Em"
+    ],
+    [
+     "Cadd9",
+     "D",
+     "G",
+     "Cadd9"
+    ],
+    [
+     "Em",
+     "Cadd9",
+     "D",
+     "D"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "id": "binibini-zack-tabudlo",
+ "title": "Binibini",
+ "artist": "Zack Tabudlo",
+ "categories": [
+  "OPM",
+  "Love Songs"
+ ],
+ "key": "F",
+ "bpm": 100,
+ "sections": [
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "F",
+     "Gm7 Am7",
+     "Gm7",
+     "F"
+    ],
+    [
+     "Gm7 Am7",
+     "Bb",
+     "Bbm"
+    ]
+   ]
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Dm",
+     "C",
+     "Bb",
+     "Bb"
+    ],
+    [
+     "Dm",
+     "C",
+     "Bbm",
+     "Bbm"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "F",
+     "Gm7 Am7",
+     "Bbmaj7",
+     "F"
+    ],
+    [
+     "Gm7 Am7",
+     "Bbmaj7",
+     "Bbmaj7"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "F",
+     "Gm7 Am7",
+     "Gm7",
+     "F"
+    ],
+    [
+     "Gm7 Am7",
+     "Bb",
+     "Bbm"
+    ]
+   ]
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Dm",
+     "C",
+     "Bb",
+     "Bb"
+    ],
+    [
+     "Dm",
+     "C",
+     "Bbm",
+     "Bbm"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "F",
+     "Gm7 Am7",
+     "Bbmaj7",
+     "F"
+    ],
+    [
+     "Gm7 Am7",
+     "Bbmaj7",
+     "Bbmaj7"
+    ]
+   ]
+  },
+  {
+   "name": "Instrumental",
+   "rows": [
+    [
+     "F",
+     "Gm7",
+     "Am7",
+     "Bb"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "F",
+     "Gm7 Am7",
+     "Bbmaj7",
+     "F"
+    ],
+    [
+     "Gm7 Am7",
+     "Bbmaj7",
+     "F"
+    ]
+   ]
+  }
+ ]
+}

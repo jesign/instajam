@@ -1,0 +1,193 @@
+{
+ "id": "let-it-be-the-beatles",
+ "title": "Let It Be",
+ "artist": "The Beatles",
+ "categories": [
+  "Rock"
+ ],
+ "key": "C",
+ "bpm": 72,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    [
+     "C",
+     "G",
+     "F",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    [
+     "C",
+     "G",
+     "F",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Am",
+     "G",
+     "F",
+     "C"
+    ],
+    [
+     "C",
+     "G",
+     "F",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    [
+     "C",
+     "G",
+     "F",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Am",
+     "G",
+     "F",
+     "C"
+    ],
+    [
+     "C",
+     "G",
+     "F",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Interlude",
+   "rows": [
+    [
+     "F C",
+     "Bb F",
+     "G F",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Instrumental",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    [
+     "C",
+     "G",
+     "F",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Am",
+     "G",
+     "F",
+     "C"
+    ],
+    [
+     "C",
+     "G",
+     "F",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 3",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    [
+     "C",
+     "G",
+     "F",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Am",
+     "G",
+     "F",
+     "C"
+    ],
+    [
+     "C",
+     "G",
+     "F",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "F C",
+     "Bb F",
+     "G F",
+     "C"
+    ]
+   ]
+  }
+ ]
+}

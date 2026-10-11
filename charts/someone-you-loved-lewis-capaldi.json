@@ -1,0 +1,115 @@
+{
+ "id": "someone-you-loved-lewis-capaldi",
+ "title": "Someone You Loved",
+ "artist": "Lewis Capaldi",
+ "categories": [
+  "Pop"
+ ],
+ "key": "C",
+ "capo": 1,
+ "bpm": 110,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "Dm",
+     "Am",
+     "G",
+     "G"
+    ],
+    [
+     "Am",
+     "Dm",
+     "Am",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    [
+     "C"
+    ]
+   ]
+  }
+ ]
+}

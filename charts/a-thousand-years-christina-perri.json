@@ -1,0 +1,133 @@
+{
+ "id": "a-thousand-years-christina-perri",
+ "title": "A Thousand Years",
+ "artist": "Christina Perri",
+ "categories": [
+  "Love Songs",
+  "Pop"
+ ],
+ "key": "G",
+ "capo": 3,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "D/F#",
+     "Em",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Em",
+     "D"
+    ],
+    [
+     "C",
+     "G",
+     "Em",
+     "D"
+    ],
+    [
+     "Am",
+     "Em",
+     "D",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "Em",
+     "C",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Em",
+     "D"
+    ],
+    [
+     "C",
+     "G",
+     "Em",
+     "D"
+    ],
+    [
+     "Am",
+     "Em",
+     "D",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "Em",
+     "C",
+     "D"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "G",
+     "Em",
+     "C",
+     "D"
+    ],
+    [
+     "Am",
+     "Em",
+     "D",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "Em",
+     "C",
+     "D"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "C",
+     "G"
+    ]
+   ]
+  }
+ ]
+}

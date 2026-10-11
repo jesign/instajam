@@ -1,0 +1,118 @@
+{
+ "id": "kahit-maputi-na-ang-buhok-ko-rey-valera",
+ "title": "Kahit Maputi Na Ang Buhok Ko",
+ "artist": "Rey Valera",
+ "categories": [
+  "Love Songs",
+  "OPM Classics"
+ ],
+ "key": "G",
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "Bm",
+     "Am",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "G",
+     "Bm",
+     "Am",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Bm",
+     "Bm7",
+     "C",
+     "Am"
+    ],
+    [
+     "C",
+     "D",
+     "G",
+     "G"
+    ],
+    [
+     "C",
+     "Am",
+     "Bm",
+     "Bm"
+    ],
+    [
+     "C",
+     "D",
+     "G",
+     "Bm Am D"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "Bm",
+     "Am",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Bm",
+     "Bm7",
+     "C",
+     "Am"
+    ],
+    [
+     "C",
+     "D",
+     "G",
+     "G"
+    ],
+    [
+     "C",
+     "Am",
+     "Bm",
+     "Bm"
+    ],
+    [
+     "C",
+     "D",
+     "G",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "Bm",
+     "Am",
+     "D",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  }
+ ]
+}

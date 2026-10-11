@@ -1,0 +1,203 @@
+{
+ "id": "kathang-isip-ben-and-ben",
+ "title": "Kathang Isip",
+ "artist": "Ben&Ben",
+ "categories": [
+  "OPM"
+ ],
+ "key": "G",
+ "capo": 3,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "Cmaj7",
+     "Gmaj7",
+     "Cmaj7",
+     "Gmaj7"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "Cmaj7",
+     "Gmaj7",
+     "Cmaj7",
+     "Gmaj7"
+    ],
+    [
+     "Cmaj7",
+     "Gmaj7",
+     "Cmaj7",
+     "Gmaj7"
+    ]
+   ]
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Am",
+     "G",
+     "Am",
+     "G"
+    ],
+    [
+     "Am",
+     "G",
+     "Em",
+     "Em"
+    ],
+    [
+     "Am",
+     "G/B",
+     "C",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "F",
+     "C",
+     "C"
+    ],
+    [
+     "Em",
+     "D",
+     "C",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Interlude",
+   "rows": [
+    [
+     "Am",
+     "Am",
+     "Em",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "Cmaj7",
+     "Gmaj7",
+     "Cmaj7",
+     "Gmaj7"
+    ],
+    [
+     "Cmaj7",
+     "Gmaj7",
+     "Em",
+     "Em"
+    ],
+    [
+     "Am",
+     "G/B",
+     "C",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "F",
+     "C",
+     "C"
+    ],
+    [
+     "Em",
+     "D",
+     "C",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "D",
+     "Am",
+     "D",
+     "Am"
+    ],
+    [
+     "D",
+     "Am",
+     "Bm",
+     "C D"
+    ],
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ],
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Instrumental",
+   "rows": [
+    [
+     "Cmaj7",
+     "Gmaj7",
+     "Cmaj7",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "F",
+     "C",
+     "C"
+    ],
+    [
+     "Em",
+     "D",
+     "C",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "Cmaj7",
+     "Gmaj7",
+     "Cmaj7",
+     "Gmaj7"
+    ]
+   ]
+  }
+ ]
+}

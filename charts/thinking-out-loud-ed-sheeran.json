@@ -1,0 +1,213 @@
+{
+ "id": "thinking-out-loud-ed-sheeran",
+ "title": "Thinking Out Loud",
+ "artist": "Ed Sheeran",
+ "categories": [
+  "Pop",
+  "Love Songs"
+ ],
+ "key": "C",
+ "capo": 2,
+ "bpm": 79,
+ "sections": [
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "C",
+     "C/E",
+     "F",
+     "G"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Dm",
+     "C",
+     "Dm",
+     "G"
+    ],
+    [
+     "Dm",
+     "Am",
+     "Dm",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "F",
+     "G",
+     "C",
+     "C/E"
+    ],
+    [
+     "F",
+     "G",
+     "C",
+     "C/E"
+    ],
+    [
+     "F",
+     "G",
+     "C",
+     "C/E"
+    ],
+    [
+     "F",
+     "G",
+     "F",
+     "G"
+    ],
+    [
+     "Am",
+     "C",
+     "F",
+     "C"
+    ],
+    [
+     "Dm",
+     "G",
+     "C",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "C",
+     "C/E",
+     "F",
+     "G"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Dm",
+     "C",
+     "Dm",
+     "G"
+    ],
+    [
+     "Dm",
+     "Am",
+     "Dm",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "F",
+     "G",
+     "C",
+     "C/E"
+    ],
+    [
+     "F",
+     "G",
+     "C",
+     "C/E"
+    ],
+    [
+     "F",
+     "G",
+     "C",
+     "C/E"
+    ],
+    [
+     "F",
+     "G",
+     "F",
+     "G"
+    ],
+    [
+     "Am",
+     "C",
+     "F",
+     "C"
+    ],
+    [
+     "Dm",
+     "G",
+     "C",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Instrumental",
+   "rows": [
+    [
+     "C",
+     "C/E",
+     "F",
+     "G"
+    ]
+   ],
+   "repeat": 3
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "F",
+     "G",
+     "C",
+     "C/E"
+    ],
+    [
+     "F",
+     "G",
+     "C",
+     "C/E"
+    ],
+    [
+     "F",
+     "G",
+     "C",
+     "C/E"
+    ],
+    [
+     "F",
+     "G",
+     "F",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "Am",
+     "C",
+     "F",
+     "C"
+    ],
+    [
+     "Dm",
+     "G",
+     "C",
+     "C"
+    ]
+   ],
+   "repeat": 3
+  }
+ ]
+}

@@ -1,0 +1,153 @@
+{
+ "id": "oceans-hillsong-united",
+ "title": "Oceans (Where Feet May Fail)",
+ "artist": "Hillsong UNITED",
+ "categories": [
+  "Worship"
+ ],
+ "key": "D",
+ "bpm": 66,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "Bm A/C#",
+     "D",
+     "A",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "Bm A/C#",
+     "D",
+     "A",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "D",
+     "A",
+     "A"
+    ],
+    [
+     "G",
+     "D",
+     "A",
+     "A"
+    ],
+    [
+     "Bm A/C#",
+     "D",
+     "A",
+     "Em"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "Bm A/C#",
+     "D",
+     "A",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "D",
+     "A",
+     "A"
+    ],
+    [
+     "G",
+     "D",
+     "A",
+     "A"
+    ],
+    [
+     "Bm A/C#",
+     "D",
+     "A",
+     "Em"
+    ]
+   ]
+  },
+  {
+   "name": "Instrumental",
+   "rows": [
+    [
+     "Bm A/C#",
+     "D",
+     "A",
+     "Em"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "Bm",
+     "G",
+     "D",
+     "A"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "G",
+     "D",
+     "A",
+     "Em"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "D",
+     "A",
+     "A"
+    ],
+    [
+     "G",
+     "D",
+     "A",
+     "A"
+    ],
+    [
+     "Bm A/C#",
+     "D",
+     "A",
+     "D"
+    ]
+   ]
+  }
+ ]
+}

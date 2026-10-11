@@ -1,0 +1,209 @@
+{
+ "id": "perfect-ed-sheeran",
+ "title": "Perfect",
+ "artist": "Ed Sheeran",
+ "categories": [
+  "Pop",
+  "Love Songs"
+ ],
+ "key": "G",
+ "capo": 1,
+ "bpm": 63,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "Em",
+     "C",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "G",
+     "Em",
+     "C",
+     "D"
+    ],
+    [
+     "G",
+     "Em",
+     "C",
+     "D"
+    ],
+    [
+     "G",
+     "Em",
+     "C G",
+     "D"
+    ],
+    [
+     "G",
+     "Em",
+     "C",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ],
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ],
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ],
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G D",
+     "Em D",
+     "C",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "Em",
+     "C",
+     "D"
+    ],
+    [
+     "G",
+     "Em",
+     "C",
+     "D"
+    ],
+    [
+     "G",
+     "Em",
+     "C G",
+     "D"
+    ],
+    [
+     "G",
+     "Em",
+     "C",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ],
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ],
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ],
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G D",
+     "Em D",
+     "C",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ],
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ],
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ],
+    [
+     "Em",
+     "C",
+     "G",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "G",
+     "D/F#",
+     "Em",
+     "Dsus4"
+    ],
+    [
+     "C",
+     "Dsus4",
+     "G",
+     "G"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "id": "what-a-beautiful-name-hillsong-worship",
+ "title": "What a Beautiful Name",
+ "artist": "Hillsong Worship",
+ "categories": [
+  "Worship"
+ ],
+ "key": "D",
+ "bpm": 68,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "D",
+     "G",
+     "Bm",
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "D",
+     "G",
+     "Bm",
+     "A"
+    ],
+    [
+     "Bm",
+     "A/C#",
+     "D G",
+     "Bm A"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "A",
+     "Bm A",
+     "G"
+    ],
+    [
+     "D/F#",
+     "A",
+     "Bm A",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "D",
+     "G",
+     "Bm",
+     "A"
+    ],
+    [
+     "Bm",
+     "A/C#",
+     "D G",
+     "Bm A"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "A",
+     "Bm A",
+     "G"
+    ],
+    [
+     "D/F#",
+     "A",
+     "Bm A",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Interlude",
+   "rows": [
+    [
+     "G",
+     "A",
+     "Bm",
+     "F#m"
+    ],
+    [
+     "G",
+     "A",
+     "Bm",
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "G",
+     "A",
+     "Bm",
+     "F#m"
+    ],
+    [
+     "G",
+     "A",
+     "Bm",
+     "A"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "A",
+     "Bm A",
+     "G"
+    ],
+    [
+     "D/F#",
+     "A",
+     "Bm A",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "Bm",
+     "A",
+     "G",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  }
+ ]
+}

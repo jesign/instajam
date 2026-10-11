@@ -1,0 +1,127 @@
+{
+ "id": "im-yours-jason-mraz",
+ "title": "I'm Yours",
+ "artist": "Jason Mraz",
+ "categories": [
+  "Pop"
+ ],
+ "key": "G",
+ "capo": 4,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Interlude",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "G",
+     "D/F#",
+     "Em",
+     "D C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 3",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Em",
+     "C"
+    ]
+   ],
+   "repeat": 3
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "G"
+    ]
+   ]
+  }
+ ]
+}

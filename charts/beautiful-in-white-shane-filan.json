@@ -1,0 +1,160 @@
+{
+ "id": "beautiful-in-white-shane-filan",
+ "title": "Beautiful in White",
+ "artist": "Shane Filan",
+ "categories": [
+  "Love Songs"
+ ],
+ "key": "C",
+ "bpm": 76,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am G",
+     "F"
+    ],
+    [
+     "C",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "C",
+     "G",
+     "F",
+     "C"
+    ],
+    [
+     "F",
+     "C",
+     "F",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am G",
+     "F"
+    ],
+    [
+     "C",
+     "G",
+     "Am G",
+     "F"
+    ],
+    [
+     "C",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "C",
+     "G",
+     "F",
+     "C"
+    ],
+    [
+     "F",
+     "C",
+     "F",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "A",
+     "Bm A",
+     "G"
+    ],
+    [
+     "D",
+     "A",
+     "Bm A",
+     "G"
+    ],
+    [
+     "D",
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "F#m",
+     "G",
+     "D",
+     "A"
+    ],
+    [
+     "Bm",
+     "D",
+     "G",
+     "D A"
+    ],
+    [
+     "B",
+     "E",
+     "B",
+     "C#m G#m"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "E",
+     "B",
+     "C#m B",
+     "A"
+    ],
+    [
+     "E",
+     "B",
+     "C#m G#m",
+     "A"
+    ],
+    [
+     "E",
+     "B"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "A",
+     "E",
+     "B",
+     "E"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "id": "way-maker-sinach",
+ "title": "Way Maker",
+ "artist": "Sinach",
+ "categories": [
+  "Worship"
+ ],
+ "key": "E",
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "A",
+     "E",
+     "B",
+     "C#m"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "A",
+     "E",
+     "B",
+     "C#m"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "A",
+     "E",
+     "B",
+     "C#m"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "A",
+     "E",
+     "B",
+     "C#m"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "A",
+     "E",
+     "B",
+     "C#m"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "A",
+     "E",
+     "B",
+     "C#m"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "A",
+     "E",
+     "B",
+     "C#m"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "A",
+     "E",
+     "B",
+     "C#m"
+    ]
+   ]
+  }
+ ]
+}

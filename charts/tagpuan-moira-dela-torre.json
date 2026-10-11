@@ -1,0 +1,149 @@
+{
+ "id": "tagpuan-moira-dela-torre",
+ "title": "Tagpuan",
+ "artist": "Moira Dela Torre",
+ "categories": [
+  "OPM",
+  "Love Songs"
+ ],
+ "key": "G",
+ "capo": 1,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "Bm7",
+     "Cadd9",
+     "Cadd9"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "G",
+     "Bm7",
+     "Cadd9",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Cadd9",
+     "G",
+     "Cadd9",
+     "G"
+    ],
+    [
+     "Cadd9",
+     "Am7"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "Bm7",
+     "Cadd9",
+     "Cadd9"
+    ]
+   ],
+   "repeat": 3
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Am7",
+     "Bm7",
+     "Cadd9",
+     "Cadd9"
+    ],
+    [
+     "Am7",
+     "Bm7",
+     "Cadd9",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Instrumental",
+   "rows": [
+    [
+     "G",
+     "Bm7",
+     "Cadd9",
+     "Cadd9"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "Bm7",
+     "Cadd9",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Cadd9",
+     "G",
+     "Cadd9",
+     "G"
+    ],
+    [
+     "Cadd9",
+     "Am7"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "Bm7",
+     "Cadd9",
+     "Cadd9"
+    ]
+   ],
+   "repeat": 3
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "Am7",
+     "Bm7",
+     "Cadd9",
+     "Cadd9"
+    ],
+    [
+     "Am7",
+     "Bm7",
+     "Cadd9",
+     "Cm"
+    ]
+   ],
+   "repeat": 2
+  }
+ ]
+}

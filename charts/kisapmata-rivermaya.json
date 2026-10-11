@@ -1,0 +1,122 @@
+{
+ "id": "kisapmata-rivermaya",
+ "title": "Kisapmata",
+ "artist": "Rivermaya",
+ "categories": [
+  "OPM Classics"
+ ],
+ "key": "D",
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "D",
+     "Em",
+     "A",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "D",
+     "Em",
+     "A",
+     "G"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "Em",
+     "A",
+     "G"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "D",
+     "Em",
+     "A",
+     "G"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "Em",
+     "A",
+     "G"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Instrumental",
+   "rows": [
+    [
+     "D",
+     "Em",
+     "A",
+     "G"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Verse 3",
+   "rows": [
+    [
+     "D",
+     "Em",
+     "A",
+     "G"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "D",
+     "Em",
+     "A",
+     "G"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "A",
+     "G",
+     "D",
+     "Em"
+    ],
+    [
+     "A",
+     "G"
+    ]
+   ]
+  }
+ ]
+}

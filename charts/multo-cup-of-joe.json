@@ -1,0 +1,137 @@
+{
+ "id": "multo-cup-of-joe",
+ "title": "Multo",
+ "artist": "Cup of Joe",
+ "categories": [
+  "OPM"
+ ],
+ "key": "E",
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "E",
+     "E",
+     "B",
+     "B"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "E",
+     "B",
+     "E",
+     "B"
+    ],
+    [
+     "E",
+     "B",
+     "E",
+     "B F#m"
+    ]
+   ]
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "E",
+     "B",
+     "G#m",
+     "F#m"
+    ],
+    [
+     "E",
+     "B",
+     "G#m",
+     "G#m"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "E",
+     "B",
+     "E",
+     "B"
+    ],
+    [
+     "E",
+     "B G#m",
+     "F#m",
+     "E B F#m"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "E",
+     "B",
+     "G#m",
+     "F#m"
+    ]
+   ],
+   "repeat": 3
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "E",
+     "B",
+     "G#m F#m",
+     "E"
+    ]
+   ]
+  },
+  {
+   "name": "Interlude",
+   "rows": [
+    [
+     "E",
+     "B",
+     "G#m",
+     "F#m"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "E",
+     "B",
+     "G#m",
+     "F#m"
+    ]
+   ],
+   "repeat": 3
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "E",
+     "B",
+     "G#m",
+     "F#m"
+    ],
+    [
+     "E",
+     "B",
+     "G#m F#m",
+     "E"
+    ]
+   ]
+  }
+ ]
+}

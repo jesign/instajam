@@ -1,0 +1,188 @@
+{
+ "id": "love-story-taylor-swift",
+ "title": "Love Story",
+ "artist": "Taylor Swift",
+ "categories": [
+  "Pop",
+  "Love Songs"
+ ],
+ "key": "C",
+ "capo": 2,
+ "bpm": 119,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "C",
+     "F",
+     "Am",
+     "F"
+    ],
+    [
+     "C",
+     "F",
+     "Am",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "F",
+     "G",
+     "Am",
+     "C"
+    ],
+    [
+     "F",
+     "G",
+     "Am F",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    [
+     "C",
+     "G",
+     "Am",
+     "F G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "C",
+     "F",
+     "Am",
+     "F"
+    ],
+    [
+     "C",
+     "F",
+     "Am",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "F",
+     "G",
+     "Am",
+     "C"
+    ],
+    [
+     "F",
+     "G",
+     "Am F",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ],
+    [
+     "C",
+     "G",
+     "Am",
+     "F G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Instrumental",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am",
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "Am",
+     "F",
+     "C",
+     "G"
+    ],
+    [
+     "Am",
+     "F",
+     "C",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G",
+     "Am",
+     "F G"
+    ],
+    [
+     "D",
+     "A",
+     "Bm",
+     "G A"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "D",
+     "A",
+     "Bm",
+     "G"
+    ],
+    [
+     "D"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "id": "cant-help-falling-in-love-elvis-presley",
+ "title": "Can't Help Falling in Love",
+ "artist": "Elvis Presley",
+ "categories": [
+  "Love Songs"
+ ],
+ "key": "C",
+ "capo": 2,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "C",
+     "G",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "C",
+     "Em",
+     "Am",
+     "C/G"
+    ],
+    [
+     "F",
+     "C/E",
+     "G",
+     "G"
+    ],
+    [
+     "F",
+     "G",
+     "Am",
+     "F"
+    ],
+    [
+     "C",
+     "G",
+     "C",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "Em",
+     "B7",
+     "Em",
+     "B7"
+    ],
+    [
+     "Em",
+     "B7",
+     "Em",
+     "B7"
+    ],
+    [
+     "Em",
+     "A7",
+     "Dm",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "C",
+     "Em",
+     "Am",
+     "C/G"
+    ],
+    [
+     "F",
+     "C/E",
+     "G",
+     "G"
+    ],
+    [
+     "F",
+     "G",
+     "Am",
+     "F"
+    ],
+    [
+     "C",
+     "G",
+     "C",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "Em",
+     "B7",
+     "Em",
+     "B7"
+    ],
+    [
+     "Em",
+     "B7",
+     "Em",
+     "B7"
+    ],
+    [
+     "Em",
+     "A7",
+     "Dm",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 3",
+   "rows": [
+    [
+     "C",
+     "Em",
+     "Am",
+     "C/G"
+    ],
+    [
+     "F",
+     "C/E",
+     "G",
+     "G"
+    ],
+    [
+     "F",
+     "G",
+     "Am",
+     "F"
+    ],
+    [
+     "C",
+     "G",
+     "C",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "F",
+     "G",
+     "Am",
+     "F"
+    ],
+    [
+     "C",
+     "G",
+     "C",
+     "C"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "id": "with-a-smile-eraserheads",
+ "title": "With a Smile",
+ "artist": "Eraserheads",
+ "categories": [
+  "OPM Classics"
+ ],
+ "key": "G",
+ "sections": [
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "G",
+     "Am",
+     "Bm Am",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Bb",
+     "Eb",
+     "Bb",
+     "Eb"
+    ],
+    [
+     "Bb",
+     "Eb",
+     "Bb",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "Am",
+     "Bm Am",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Bb",
+     "Eb",
+     "Bb",
+     "D E"
+    ],
+    [
+     "Bb",
+     "Eb",
+     "Bb",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "G",
+     "Am",
+     "Bm Am",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Bb",
+     "Eb",
+     "Bb",
+     "D E"
+    ],
+    [
+     "Bb",
+     "Eb",
+     "Bb",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 3",
+   "rows": [
+    [
+     "G",
+     "Am",
+     "Bm Am",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "G",
+     "Am",
+     "Bm Am",
+     "D"
+    ]
+   ],
+   "repeat": 4
+  }
+ ]
+}

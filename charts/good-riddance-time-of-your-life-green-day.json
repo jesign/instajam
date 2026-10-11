@@ -1,0 +1,160 @@
+{
+ "id": "good-riddance-time-of-your-life-green-day",
+ "title": "Good Riddance (Time of Your Life)",
+ "artist": "Green Day",
+ "categories": [
+  "Rock"
+ ],
+ "key": "G",
+ "bpm": 95,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "G",
+     "Cadd9",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "G",
+     "G",
+     "Cadd9",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Em",
+     "D",
+     "C",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Em",
+     "G",
+     "Em",
+     "G"
+    ],
+    [
+     "Em",
+     "D",
+     "G",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "G",
+     "Cadd9",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Em",
+     "D",
+     "C",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Em",
+     "G",
+     "Em",
+     "G"
+    ],
+    [
+     "Em",
+     "D",
+     "G",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Instrumental",
+   "rows": [
+    [
+     "G",
+     "G",
+     "Cadd9",
+     "D"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Em",
+     "D",
+     "C",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Em",
+     "G",
+     "Em",
+     "G"
+    ],
+    [
+     "Em",
+     "D",
+     "G",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "G",
+     "G",
+     "Cadd9",
+     "D"
+    ]
+   ],
+   "repeat": 2
+  }
+ ]
+}

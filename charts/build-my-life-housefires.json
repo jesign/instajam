@@ -1,0 +1,121 @@
+{
+ "id": "build-my-life-housefires",
+ "title": "Build My Life",
+ "artist": "Housefires",
+ "categories": [
+  "Worship"
+ ],
+ "key": "G",
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "C",
+     "G",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "G",
+     "C",
+     "G",
+     "C"
+    ],
+    [
+     "G",
+     "C",
+     "Em",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "C",
+     "G",
+     "C"
+    ],
+    [
+     "G",
+     "C",
+     "Em",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "Am",
+     "G",
+     "Em"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 3",
+   "rows": [
+    [
+     "G",
+     "C",
+     "G",
+     "C"
+    ],
+    [
+     "G",
+     "C",
+     "Em",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "Am",
+     "G",
+     "Em"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "C",
+     "D",
+     "Em",
+     "G"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "Am",
+     "G",
+     "Em"
+    ]
+   ],
+   "repeat": 2
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "id": "kung-di-rin-lang-ikaw-december-avenue",
+ "title": "Kung 'Di Rin Lang Ikaw",
+ "artist": "December Avenue feat. Moira Dela Torre",
+ "categories": [
+  "OPM",
+  "Love Songs"
+ ],
+ "key": "E",
+ "sections": [
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "Emaj7",
+     "G#m",
+     "Asus2",
+     "Bsus4"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Asus2",
+     "Bsus4",
+     "C#m",
+     "C#m"
+    ],
+    [
+     "Asus2",
+     "Bsus4"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Emaj7",
+     "G#m",
+     "Asus2",
+     "Bsus4"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Interlude",
+   "rows": [
+    [
+     "Emaj7",
+     "G#m",
+     "Asus2",
+     "Bsus4"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "Emaj7",
+     "G#m",
+     "Asus2",
+     "Bsus4"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Pre-Chorus",
+   "rows": [
+    [
+     "Asus2",
+     "Bsus4",
+     "C#m",
+     "C#m"
+    ],
+    [
+     "Asus2",
+     "Bsus4"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Emaj7",
+     "G#m",
+     "Asus2",
+     "Bsus4"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "Asus2",
+     "Bsus4",
+     "C#m",
+     "C#m"
+    ],
+    [
+     "Asus2",
+     "Bsus4"
+    ]
+   ]
+  },
+  {
+   "name": "Instrumental",
+   "rows": [
+    [
+     "Emaj7",
+     "G#m",
+     "Asus2",
+     "Bsus4"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Emaj7",
+     "G#m",
+     "Asus2",
+     "Bsus4"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "Asus2",
+     "F#m",
+     "Asus2",
+     "F#m"
+    ]
+   ]
+  }
+ ]
+}

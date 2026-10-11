@@ -1,0 +1,123 @@
+{
+ "id": "yellow-coldplay",
+ "title": "Yellow",
+ "artist": "Coldplay",
+ "categories": [
+  "Rock"
+ ],
+ "key": "B",
+ "bpm": 87,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "B",
+     "B",
+     "F#",
+     "Emaj7"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "B",
+     "B",
+     "F#",
+     "F#"
+    ],
+    [
+     "Emaj7",
+     "Emaj7",
+     "B",
+     "B"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Emaj7",
+     "G#m7",
+     "F#",
+     "F#"
+    ]
+   ],
+   "repeat": 3
+  },
+  {
+   "name": "Interlude",
+   "rows": [
+    [
+     "B",
+     "B",
+     "F#",
+     "Emaj7"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "B",
+     "B",
+     "F#",
+     "F#"
+    ],
+    [
+     "Emaj7",
+     "Emaj7",
+     "B",
+     "B"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Emaj7",
+     "G#m7",
+     "F#",
+     "F#"
+    ]
+   ],
+   "repeat": 3
+  },
+  {
+   "name": "Instrumental",
+   "rows": [
+    [
+     "B",
+     "F#",
+     "Emaj7",
+     "B"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "B",
+     "F#",
+     "Emaj7",
+     "Emaj7"
+    ],
+    [
+     "B",
+     "F#m7",
+     "Emaj7",
+     "B"
+    ]
+   ]
+  }
+ ]
+}

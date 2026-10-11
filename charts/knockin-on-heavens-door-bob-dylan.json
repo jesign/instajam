@@ -1,0 +1,108 @@
+{
+ "id": "knockin-on-heavens-door-bob-dylan",
+ "title": "Knockin' on Heaven's Door",
+ "artist": "Bob Dylan",
+ "categories": [
+  "Rock"
+ ],
+ "key": "G",
+ "bpm": 69,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "D",
+     "C",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Am",
+     "Am"
+    ],
+    [
+     "G",
+     "D",
+     "C",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Am",
+     "Am"
+    ],
+    [
+     "G",
+     "D",
+     "C",
+     "C"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Am",
+     "Am"
+    ],
+    [
+     "G",
+     "D",
+     "C",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "D",
+     "Am",
+     "Am"
+    ],
+    [
+     "G",
+     "D",
+     "C",
+     "C"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "G",
+     "D",
+     "C",
+     "C"
+    ]
+   ],
+   "repeat": 2
+  }
+ ]
+}

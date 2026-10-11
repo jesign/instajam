@@ -1,0 +1,125 @@
+{
+ "id": "ikaw-yeng-constantino",
+ "title": "Ikaw",
+ "artist": "Yeng Constantino",
+ "categories": [
+  "Love Songs",
+  "OPM"
+ ],
+ "key": "F",
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "F",
+     "Am",
+     "Dm",
+     "Bb"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "F",
+     "Am",
+     "Dm",
+     "Bb"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "F",
+     "Am",
+     "Dm",
+     "Bb"
+    ],
+    [
+     "F",
+     "Am",
+     "Dm",
+     "Bb"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "F",
+     "Am",
+     "Dm",
+     "Bb"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "F",
+     "Am",
+     "Dm",
+     "Bb"
+    ],
+    [
+     "F",
+     "Am",
+     "Dm",
+     "Bb"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "Am",
+     "Dm",
+     "Am",
+     "Dm"
+    ],
+    [
+     "Bb",
+     "Bb",
+     "C",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "Bm",
+     "Em",
+     "C"
+    ],
+    [
+     "G",
+     "Bm",
+     "Em",
+     "C"
+    ],
+    [
+     "G"
+    ]
+   ],
+   "repeat": 2
+  }
+ ]
+}

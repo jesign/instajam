@@ -1,0 +1,206 @@
+{
+ "id": "ang-huling-el-bimbo-eraserheads",
+ "title": "Ang Huling El Bimbo",
+ "artist": "Eraserheads",
+ "categories": [
+  "OPM Classics"
+ ],
+ "key": "G",
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "A7",
+     "C",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "G",
+     "A7",
+     "C",
+     "G"
+    ],
+    [
+     "G",
+     "A7",
+     "C",
+     "G"
+    ],
+    [
+     "G",
+     "A7",
+     "C",
+     "G"
+    ],
+    [
+     "G",
+     "A7",
+     "C",
+     "G"
+    ],
+    [
+     "Em",
+     "G",
+     "C",
+     "D"
+    ],
+    [
+     "Em",
+     "G",
+     "C",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "A7",
+     "C",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "A7",
+     "C",
+     "G"
+    ],
+    [
+     "G",
+     "A7",
+     "C",
+     "G"
+    ],
+    [
+     "G",
+     "A7",
+     "C",
+     "G"
+    ],
+    [
+     "G",
+     "A7",
+     "C",
+     "G"
+    ],
+    [
+     "Em",
+     "G",
+     "C",
+     "D"
+    ],
+    [
+     "Em",
+     "G",
+     "C",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "A7",
+     "C",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Instrumental",
+   "rows": [
+    [
+     "G",
+     "A7",
+     "C",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 3",
+   "rows": [
+    [
+     "G",
+     "A7",
+     "C",
+     "G"
+    ],
+    [
+     "G",
+     "A7",
+     "C",
+     "G"
+    ],
+    [
+     "G",
+     "A7",
+     "C",
+     "G"
+    ],
+    [
+     "G",
+     "A7",
+     "C",
+     "G"
+    ],
+    [
+     "Em",
+     "G",
+     "C",
+     "D"
+    ],
+    [
+     "Em",
+     "G",
+     "C",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "G",
+     "A7",
+     "C",
+     "G"
+    ]
+   ],
+   "repeat": 4
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "G",
+     "A7",
+     "C",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  }
+ ]
+}

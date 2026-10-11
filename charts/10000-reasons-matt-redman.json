@@ -1,0 +1,217 @@
+{
+ "id": "10000-reasons-matt-redman",
+ "title": "10,000 Reasons (Bless the Lord)",
+ "artist": "Matt Redman",
+ "categories": [
+  "Worship"
+ ],
+ "key": "G",
+ "bpm": 74,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "C",
+     "G",
+     "D",
+     "Em"
+    ],
+    [
+     "C",
+     "G",
+     "D",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G",
+     "D",
+     "Em"
+    ],
+    [
+     "C",
+     "G",
+     "Dsus4",
+     "D"
+    ],
+    [
+     "C",
+     "G",
+     "D",
+     "Em"
+    ],
+    [
+     "C",
+     "D",
+     "G",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "C",
+     "G",
+     "D",
+     "Em"
+    ],
+    [
+     "C",
+     "G",
+     "D",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G",
+     "D",
+     "Em"
+    ],
+    [
+     "C",
+     "G",
+     "Dsus4",
+     "D"
+    ],
+    [
+     "C",
+     "G",
+     "D",
+     "Em"
+    ],
+    [
+     "C",
+     "D",
+     "G",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "C",
+     "G",
+     "D",
+     "Em"
+    ],
+    [
+     "C",
+     "G",
+     "D",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G",
+     "D",
+     "Em"
+    ],
+    [
+     "C",
+     "G",
+     "Dsus4",
+     "D"
+    ],
+    [
+     "C",
+     "G",
+     "D",
+     "Em"
+    ],
+    [
+     "C",
+     "D",
+     "G",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 3",
+   "rows": [
+    [
+     "C",
+     "G",
+     "D",
+     "Em"
+    ],
+    [
+     "C",
+     "G",
+     "D",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G",
+     "D",
+     "Em"
+    ],
+    [
+     "C",
+     "G",
+     "Dsus4",
+     "D"
+    ],
+    [
+     "C",
+     "G",
+     "D",
+     "Em"
+    ],
+    [
+     "C",
+     "D",
+     "G",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Outro",
+   "rows": [
+    [
+     "C",
+     "D",
+     "Em",
+     "Em"
+    ],
+    [
+     "C",
+     "D",
+     "G",
+     "G"
+    ]
+   ]
+  }
+ ]
+}

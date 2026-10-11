@@ -1,0 +1,181 @@
+{
+ "id": "goodness-of-god-bethel-music",
+ "title": "Goodness of God",
+ "artist": "Bethel Music",
+ "categories": [
+  "Worship"
+ ],
+ "key": "G",
+ "capo": 1,
+ "bpm": 63,
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "C",
+     "G",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "G",
+     "C",
+     "G",
+     "G"
+    ],
+    [
+     "D/F#",
+     "Em",
+     "C",
+     "D"
+    ],
+    [
+     "Em",
+     "C",
+     "G D/F#",
+     "Em"
+    ],
+    [
+     "C",
+     "D",
+     "G",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G",
+     "C",
+     "G D"
+    ],
+    [
+     "C",
+     "G D/F#",
+     "Em",
+     "Em"
+    ],
+    [
+     "C",
+     "D",
+     "G",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "C",
+     "G",
+     "G"
+    ],
+    [
+     "D/F#",
+     "Em",
+     "C",
+     "D"
+    ],
+    [
+     "Em",
+     "C",
+     "G D/F#",
+     "Em"
+    ],
+    [
+     "C",
+     "D",
+     "G",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G",
+     "C",
+     "G D"
+    ],
+    [
+     "C",
+     "G D/F#",
+     "Em",
+     "Em"
+    ],
+    [
+     "C",
+     "D",
+     "G",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Bridge",
+   "rows": [
+    [
+     "G/B",
+     "C",
+     "D",
+     "G"
+    ],
+    [
+     "G/B",
+     "C",
+     "D",
+     "G"
+    ],
+    [
+     "G/B",
+     "C",
+     "D",
+     "Em"
+    ],
+    [
+     "G/B",
+     "C",
+     "D",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "C",
+     "G",
+     "C",
+     "G D"
+    ],
+    [
+     "C",
+     "G D/F#",
+     "Em",
+     "Em"
+    ],
+    [
+     "C",
+     "D",
+     "G",
+     "G"
+    ]
+   ]
+  }
+ ]
+}

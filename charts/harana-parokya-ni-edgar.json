@@ -1,0 +1,169 @@
+{
+ "id": "harana-parokya-ni-edgar",
+ "title": "Harana",
+ "artist": "Parokya ni Edgar",
+ "categories": [
+  "OPM Classics",
+  "Love Songs"
+ ],
+ "key": "G",
+ "sections": [
+  {
+   "name": "Intro",
+   "rows": [
+    [
+     "G",
+     "Cadd9",
+     "G",
+     "Cadd9"
+    ]
+   ],
+   "repeat": 2
+  },
+  {
+   "name": "Verse 1",
+   "rows": [
+    [
+     "G",
+     "C",
+     "Bm",
+     "E"
+    ],
+    [
+     "Am7",
+     "Bm",
+     "Am7",
+     "D"
+    ],
+    [
+     "G",
+     "C",
+     "Bm",
+     "E"
+    ],
+    [
+     "Am7",
+     "Bm",
+     "Am7",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "rows": [
+    [
+     "G",
+     "C",
+     "Bm",
+     "E"
+    ],
+    [
+     "Am7",
+     "Bm",
+     "Am7",
+     "D"
+    ],
+    [
+     "G",
+     "C",
+     "Bm",
+     "E"
+    ],
+    [
+     "Am7",
+     "Bm",
+     "Am7",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Cmaj7",
+     "Bm7",
+     "Am7 D",
+     "G G7"
+    ],
+    [
+     "Cmaj7",
+     "Bm7",
+     "Am7 D",
+     "E7"
+    ],
+    [
+     "Am7",
+     "D",
+     "G",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Interlude",
+   "rows": [
+    [
+     "G",
+     "C",
+     "G",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Verse 3",
+   "rows": [
+    [
+     "G",
+     "C",
+     "Bm",
+     "E"
+    ],
+    [
+     "Am7",
+     "Bm",
+     "Am7",
+     "D"
+    ],
+    [
+     "G",
+     "C",
+     "Bm",
+     "E"
+    ],
+    [
+     "Am7",
+     "Bm",
+     "Am7",
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "rows": [
+    [
+     "Cmaj7",
+     "Bm7",
+     "Am7 D",
+     "G G7"
+    ],
+    [
+     "Cmaj7",
+     "Bm7",
+     "Am7 D",
+     "E7"
+    ],
+    [
+     "Am7",
+     "D",
+     "G",
+     "G"
+    ]
+   ],
+   "repeat": 2
+  }
+ ]
+}
