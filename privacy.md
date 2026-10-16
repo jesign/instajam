@@ -1,5 +1,6 @@
 ---
-title: InstaJam Privacy Policy
+title: Privacy Policy
+layout: doc
 permalink: /privacy/
 ---
 

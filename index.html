@@ -1,0 +1,175 @@
+---
+layout: default
+title: InstaJam
+---
+{% assign img = '/assets/img/' | relative_url %}
+<header class="hero">
+  <div class="strings" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i></div>
+  <div class="wrap top">
+    <a class="brand" href="{{ '/' | relative_url }}"><img src="{{ img }}icon.png" alt=""><span>InstaJam</span></a>
+    <nav>
+      <a href="#features">Features</a>
+      <a href="#songs">Songs</a>
+      <a href="#screenshots">Screenshots</a>
+      <a href="{{ '/privacy/' | relative_url }}">Privacy</a>
+    </nav>
+  </div>
+  <div class="wrap hero-grid">
+    <div>
+      <span class="eyebrow"><b></b>Guitar for Android</span>
+      <h1>Strum instantly.<br><em>Jam anywhere.</em></h1>
+      <p class="lead">InstaJam turns your phone into a guitar you can play right away – no lag, no setup. Tap a chord with one hand, swipe the strings with the other.</p>
+      <div class="cta">
+        {% if site.play_live %}
+        <a class="btn" href="{{ site.play_url }}">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6 3.5v17a1 1 0 0 0 1.5.86l14-8.5a1 1 0 0 0 0-1.72l-14-8.5A1 1 0 0 0 6 3.5Z"/></svg>
+          <span><small>Get it on</small>Google Play</span>
+        </a>
+        {% else %}
+        <span class="btn" aria-disabled="true">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6 3.5v17a1 1 0 0 0 1.5.86l14-8.5a1 1 0 0 0 0-1.72l-14-8.5A1 1 0 0 0 6 3.5Z"/></svg>
+          <span><small>Coming soon to</small>Google Play</span>
+        </span>
+        {% endif %}
+        <a class="btn ghost" href="#features">See what it does</a>
+      </div>
+    </div>
+    <div class="device">
+      <img src="{{ img }}03-guitar.webp" width="1440" height="720" alt="InstaJam's guitar screen: chord buttons G, Em, C, D, Am and Bm beside six strings over a wooden guitar body.">
+    </div>
+  </div>
+  <div class="wrap chords" aria-hidden="true">
+    <span class="on">G</span><span>Em</span><span>C</span><span>D</span><span>Am</span><span>Bm</span>
+  </div>
+</header>
+
+<main>
+  <section id="features">
+    <div class="wrap">
+      <div class="section-head">
+        <span class="kicker">Features</span>
+        <h2>A real-feeling guitar in your pocket</h2>
+        <p>Every string sounds the moment your finger crosses it, so strums feel fast and natural – like the real thing.</p>
+      </div>
+      <div class="features">
+        <article class="card">
+          <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M13 2 4 14h7l-1 8 9-12h-7l1-8Z"/></svg></div>
+          <h3>Play instantly</h3>
+          <ul>
+            <li>Built for instant response – sound starts the moment you touch</li>
+            <li>Chord buttons and strum strings side by side, in landscape</li>
+            <li>Change chords mid-strum with two hands</li>
+            <li>Chuck button for percussive strums and beats</li>
+            <li>Acoustic, classical and clean electric sounds</li>
+          </ul>
+        </article>
+        <article class="card">
+          <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg></div>
+          <h3>Play along with songs</h3>
+          <ul>
+            <li>Browse 90 chord charts: OPM, pop, rock, love songs and worship</li>
+            <li>Opening a song loads its chords onto your chord buttons</li>
+            <li>Auto-scroll at your own speed, with transpose and capo</li>
+            <li>Add your own songs – saved only on your phone</li>
+            <li>Link a YouTube video and strum along with it</li>
+          </ul>
+        </article>
+        <article class="card">
+          <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 21v-7M4 10V3M12 21v-9M12 8V3M20 21v-5M20 12V3M1 14h6M9 8h6M17 16h6"/></svg></div>
+          <h3>Make it yours</h3>
+          <ul>
+            <li>Ready-made chord sets by key: G, C, D, A and Minor / ballad</li>
+            <li>Up to 3 custom chord sets from 84 chords – drag to reorder</li>
+            <li>Capo on frets 1–12</li>
+            <li>Standard, half-step, whole-step and Drop D tunings, plus fine tuning</li>
+            <li>Left-handed mode and string order options</li>
+          </ul>
+        </article>
+        <article class="card">
+          <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="11" width="16" height="10" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg></div>
+          <h3>Private and simple</h3>
+          <ul>
+            <li>No account, no ads, no tracking</li>
+            <li>Your songs and settings stay on your device</li>
+            <li>Chord charts open offline</li>
+          </ul>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section id="songs" class="songs-band">
+    <div class="wrap songs">
+      <div>
+        <span class="kicker">Songs</span>
+        <h2>90 chord charts, ready to strum</h2>
+        <p>Search by title or artist, or pick a category. Open a song and its chords land right on your buttons – capo and key included.</p>
+        <div class="chips"><span>OPM</span><span>OPM Classics</span><span>Pop</span><span>Rock</span><span>Love Songs</span><span>Worship</span></div>
+        <div class="list">
+          <div><span><b>Binibini</b><small>Zack Tabudlo</small></span><i>F</i></div>
+          <div><span><b>Alapaap</b><small>Eraserheads</small></span><i>G</i></div>
+          <div><span><b>Tagpuan</b><small>Moira Dela Torre</small></span><i>G</i></div>
+          <div><span><b>Perfect</b><small>Ed Sheeran</small></span><i>G</i></div>
+          <div><span><b>Wonderwall</b><small>Oasis</small></span><i>Em</i></div>
+          <div><span><b>Way Maker</b><small>Sinach</small></span><i>E</i></div>
+        </div>
+      </div>
+      <div class="device">
+        <img src="{{ img }}01-song-pop.webp" width="1440" height="720" loading="lazy" alt="The song view: Perfect by Ed Sheeran open beside the strings, its chords on the chord buttons and capo set to fret 1.">
+      </div>
+    </div>
+  </section>
+
+  <section id="screenshots">
+    <div class="wrap">
+      <div class="section-head">
+        <span class="kicker">Screenshots</span>
+        <h2>Take a closer look</h2>
+      </div>
+      <div class="gallery" tabindex="0" aria-label="Screenshots">
+        <figure><div class="device"><img src="{{ img }}02-songs.webp" width="1440" height="720" loading="lazy" alt="The song list filtered to OPM, with search and categories."></div><figcaption>Find songs by title, artist or category</figcaption></figure>
+        <figure><div class="device"><img src="{{ img }}04-song-opm.webp" width="1440" height="720" loading="lazy" alt="Binibini by Zack Tabudlo open with its chords on the buttons."></div><figcaption>OPM favorites, chords loaded for you</figcaption></figure>
+        <figure><div class="device"><img src="{{ img }}05-chordset.webp" width="1440" height="720" loading="lazy" alt="Chord set picker with preset keys G, C, D, A and Minor."></div><figcaption>Chord sets by key, or build your own</figcaption></figure>
+        <figure><div class="device"><img src="{{ img }}06-tuning.webp" width="1440" height="720" loading="lazy" alt="Tuning options: standard, half-step down, whole-step down and Drop D."></div><figcaption>Tunings and fine tuning by ear</figcaption></figure>
+      </div>
+      <p class="gallery-hint">Swipe or scroll for more →</p>
+    </div>
+  </section>
+
+  <section style="padding-top: 0">
+    <div class="wrap">
+      <div class="tip">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 18v-6a9 9 0 0 1 18 0v6"/><path d="M21 19a2 2 0 0 1-2 2h-1v-6h3zM3 19a2 2 0 0 0 2 2h1v-6H3z"/></svg>
+        <div>
+          <h3>Tip for the fastest response</h3>
+          <p>Play through the phone speaker or wired headphones. Bluetooth headphones add a delay that no app can remove.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<script>
+  // Strum the background strings with the pointer (no-op with reduced motion).
+  (function () {
+    if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    var hero = document.querySelector('.hero');
+    var strings = Array.prototype.slice.call(document.querySelectorAll('.strings i'));
+    var lastY = null;
+    hero.addEventListener('pointermove', function (e) {
+      var y = e.clientY;
+      if (lastY !== null) {
+        strings.forEach(function (s) {
+          var sy = s.getBoundingClientRect().top;
+          if ((lastY - sy) * (y - sy) < 0) {
+            s.classList.remove('pluck');
+            void s.offsetWidth;
+            s.classList.add('pluck');
+          }
+        });
+      }
+      lastY = y;
+    });
+    hero.addEventListener('pointerleave', function () { lastY = null; });
+  })();
+</script>

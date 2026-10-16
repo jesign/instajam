@@ -1,2 +1,7 @@
 title: InstaJam
-description: A guitar you can play right away on your phone.
+description: A guitar you can play right away on your phone. Tap chords, swipe strings, jam anywhere.
+baseurl: "/instajam"
+url: "https://jesign.github.io"
+play_url: "https://play.google.com/store/apps/details?id=com.jesign.instajam"
+# Flip to true once the app is live on Google Play.
+play_live: false
